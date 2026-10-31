@@ -33,11 +33,29 @@ El objetivo es ofrecer una guía clara, sin tecnicismos, para cualquier persona 
 ```
 mercado-digital-cubano-en-10-de-octubre/
 ├── README.md                                      # Historia, objetivos, fuentes y estructura
-├── datos/brutos/revolico_crudos.json       # Anuncios originales de Revolico
+├── datos/brutos/revolico_crudos.json       # Anuncios originales de Revolico (101)
+├── datos/brutos/revolico_crudos_actualizados.json  # Anuncios verificados y actualizados (93)
+├── datos/brutos/revolico_crudos_con_fechas.json    # Con fechas de publicación (proxy por ID)
+├── datos/brutos/revolico_crudos_ordenado_por_id.json # Ordenado por antigüedad (ID)
+├── datos/limpios/datos_unificados_facebook_revolico.json  # 120 anuncios (FB + Revolico)
+├── datos/limpios/LISTA_ANOMALIAS_POR_ANUNCIO.txt   # Anomalías por anuncio
+├── datos/limpios/LIMPIEZA_POR_TIEMPO_DE_PUBLICACION.txt # Limpieza por antigüedad
+├── datos/limpios/anuncios_activos.txt       # 80 anuncios activos
+├── datos/limpios/anuncios_inactivos.txt     # 21 anuncios inactivos
+├── datos/limpios/nuevos_anuncios.txt        # 13 anuncios nuevos encontrados
+├── datos/limpios/reporte_actualizacion_anuncios.txt # Reporte de actualización
+├── datos/limpios/reporte_limpieza_fechas.txt # Reporte de limpieza por fechas
 ├── src/scrape_revolico.py             # Script de descarga de anuncios (Revolico)
 ├── scripts/agregar_permuta.py         # Detección de permutas en títulos
+├── scripts/verificar_y_actualizar_anuncios.py  # Verificar anuncios activos + nuevos
+├── scripts/extraer_fechas_publicacion.py   # Extraer fechas de publicación
+├── scripts/mezclar_facebook_revolico.py    # Mezclar Facebook + Revolico
+├── scripts/analizar_30_preguntas.py    # Analizar y responder las 30 preguntas
 ├── analisis/generar_informe_bloque1.py # Script para generar informe del Bloque 1
-├── analisis/informe_final.md          # 30 preguntas (pendiente de completar)
+├── analisis/informe_final.md          # 30 preguntas respondidas
+├── analisis/telefonos_y_enlaces.txt   # Teléfonos y enlaces de anuncios
+├── analisis/limpieza/explicacion_datos_sospechosos.txt
+├── analisis/limpieza/LISTA_PARA_LIMPIAR_MANUAL.txt
 ├── fuentes/anuario_estadistico_notas.md # Notas de fuentes oficiales consultadas
 ├── requirements.txt                   # Dependencias de Python
 └── LICENSE                            # Licencia MIT
@@ -87,7 +105,7 @@ Todas apuntan al mismo objetivo: entender el mercado inmobiliario digital de Die
 29. ¿Cuántos anuncios parecen ser de particulares frente a posibles anuncios repetidos o agencias (por lenguaje o título)?
 30. ¿Qué recomendación práctica se puede hacer a alguien que quiera comprar o alquilar en Diez de Octubre según estos datos?
 
-## Cómo ejecutar el scraping
+## Cómo ejecutar el scraping y análisis
 
 Desde la carpeta raíz del proyecto:
 
@@ -95,15 +113,34 @@ Desde la carpeta raíz del proyecto:
 # Requerimientos
 pip install -r requirements.txt
 
-# Descargar anuncios de Revolico (guardado en datos/brutos/)
+# 1. Descargar anuncios de Revolico (guardado en datos/brutos/)
 python3 src/scrape_revolico.py
 
-# Marcar permutas en los archivos brutos
+# 2. Verificar anuncios activos y agregar nuevos de Diez de Octubre
+python3 scripts/verificar_y_actualizar_anuncios.py
+
+# 3. Extraer fechas de publicación (proxy por ID de enlace)
+python3 scripts/extraer_fechas_publicacion.py
+
+# 4. Marcar permutas en los archivos brutos
 python3 scripts/agregar_permuta.py
+
+# 5. Mezclar datos de Revolico y Facebook en estructura unificada
+python3 scripts/mezclar_facebook_revolico.py
+
+# 6. Analizar y responder las 30 preguntas de investigación
+python3 scripts/analizar_30_preguntas.py
 ```
 
 Los resultados se guardan en:
-- `datos/brutos/revolico_crudos.json`
+- `datos/brutos/revolico_crudos_actualizados.json` (anuncios verificados)
+- `datos/brutos/revolico_crudos_con_fechas.json` (con fechas de publicación)
+- `datos/brutos/revolico_crudos_ordenado_por_id.json` (ordenado por antigüedad)
+- `datos/limpios/datos_unificados_facebook_revolico.json` (120 anuncios: FB + Revolico)
+- `datos/limpios/anuncios_activos.txt`
+- `datos/limpios/anuncios_inactivos.txt`
+- `datos/limpios/nuevos_anuncios.txt`
+- `analisis/informe_final.md` (30 preguntas respondidas)
 
 ## Herramientas utilizadas
 
