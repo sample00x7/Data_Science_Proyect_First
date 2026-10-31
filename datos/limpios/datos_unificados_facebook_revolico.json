@@ -1,0 +1,3836 @@
+[
+  {
+    "id_publicacion": 1,
+    "publicacion": {
+      "grupo": "Ventas de casas en La Habana",
+      "autor": "Maite Alvarez",
+      "fecha": "Jul 1"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "céntrica, a una cuadra de Plaza Roja",
+      "distribucion": [
+        "Amplio portal",
+        "4 cuartos espaciosos",
+        "Sala y saleta",
+        "2 cocinas",
+        "3 baños",
+        "Garaje amplio"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Gas de la calle",
+      "Teléfono fijo",
+      "Corriente 110v y 220v"
+    ],
+    "equipamiento_incluido": [
+      "2 splits de 2 toneladas",
+      "Sistema de 8 cámaras",
+      "TV 55\"",
+      "Equipos del bar"
+    ],
+    "oportunidad_negocio": {
+      "ideal_para": "vivir y negocio",
+      "licencia_tcp": true,
+      "bar": "Remodelado y equipado"
+    },
+    "precio": {
+      "monto": 65000,
+      "moneda": "USD",
+      "negociable": true,
+      "nota": "Facilidades de pago desde USA o España"
+    },
+    "contacto": {
+      "telefono": "+5353332228"
+    }
+  },
+  {
+    "id_publicacion": 2,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Marlon Luis Merodio",
+      "fecha": "Hace 54 minutos"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "La Víbora, 10 de Octubre, Vista Alegre, cerca de la secundaria",
+      "piso": "4to piso",
+      "area_m2": 67.81,
+      "ano_construccion": 1950,
+      "distribucion": [
+        "Sala-comedor",
+        "2 cuartos",
+        "1 baño",
+        "Cocina"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Gas de la calle",
+      "Tanque elevado grande"
+    ],
+    "estado_legal": {
+      "papeles_en_regla": true
+    },
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": true
+    },
+    "contacto": {
+      "metodo": "Solo WhatsApp",
+      "telefono": "53880823"
+    }
+  },
+  {
+    "id_publicacion": 3,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "INMOBILIARIA WELCOME HOME"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa + negocio rentable en venta",
+      "ubicacion": "Avenida Acosta, El Mónaco",
+      "distribucion": [
+        "Sala y comedor independientes",
+        "Cocina amplia",
+        "5 habitaciones",
+        "4 baños",
+        "Pasillos laterales",
+        "Patio amplio y cementado",
+        "Cocina auxiliar",
+        "Cuarto de desahogo",
+        "Garaje techado para 2 vehículos",
+        "Placa libre"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Cisterna subterránea",
+      "2 tanques elevados de 3,000 litros cada uno",
+      "Calentador de agua",
+      "Presurizador para ducha",
+      "Buena disponibilidad de agua"
+    ],
+    "estado_legal": {
+      "sin_deudas_ni_problemas_legales": true
+    },
+    "negocio_incluido": {
+      "descripcion": "Negocio actualmente en funcionamiento",
+      "detalles": "Con clientela establecida y generación de ingresos mensuales"
+    },
+    "precio": {
+      "monto": 150000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "telefono": "052451128"
+    }
+  },
+  {
+    "id_publicacion": 4,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Inmobiliaria 'Welcome HOME'",
+      "fecha": "Oct 14"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa independiente",
+      "ubicacion": "Rpto Sevillano. 10 de Octubre",
+      "distribucion_y_caracteristicas": [
+        "Portal enrejado",
+        "Carposh",
+        "Sala",
+        "2 habitaciones amplias (una de ellas con closet bien grande y otro más pequeño)",
+        "1 baño (agua fría y caliente)",
+        "Comedor",
+        "Cocina (gas balita)",
+        "Terraza techada con lavaderos",
+        "Patio trasero con algunos árboles frutales",
+        "Cuarto de desahogo en el patio"
+      ]
+    },
+    "servicios_y_extras": [
+      "Teléfono fijo",
+      "Servicio de Nauta Hogar activo",
+      "Sistema de cámara de seguridad",
+      "Video portero digital"
+    ],
+    "estado_legal": {
+      "estatus": "Lista para Firmar"
+    },
+    "precio": {
+      "monto": 50000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "telefono": "052451128"
+    }
+  },
+  {
+    "id_publicacion": 5,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Inmobiliaria 'Welcome HOME'",
+      "fecha": "Oct 12"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa biplanta (Parte de arriba)",
+      "ubicacion": "El Sevillano, cerca del parque Córdoba",
+      "area_m2": 132,
+      "distribucion": [
+        "Portal",
+        "Sala comedor amplio",
+        "3 cuartos con closets",
+        "Cocina",
+        "Baño",
+        "Pequeño patio de servicio para lavar"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Teléfono fijo",
+      "Gas de la calle",
+      "Garaje con cámara y alarma",
+      "Azotea libre con cámaras y alarma",
+      "Corriente 110 y 220"
+    ],
+    "precio": {
+      "monto": 38000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "telefono": "052451128"
+    }
+  },
+  {
+    "id_publicacion": 6,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa con negocio (Bar)",
+      "ubicacion": "Reparto Sevillano, Municipio 10 de Octubre"
+    },
+    "distribucion_general": {
+      "planta_baja_vivienda_particular": [
+        "Sala amplia y acogedora",
+        "Cocina independiente",
+        "3 cuartos principales",
+        "1 cuarto pequeño adicional",
+        "2 baños completos"
+      ],
+      "planta_alta_negocio_bar": [
+        "Bar completamente equipado",
+        "2 baños independientes para clientes"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "4 splits repartidos en la casa",
+      "3 splits potentes en el bar",
+      "Gas de calle conectado"
+    ],
+    "estacionamiento": {
+      "garaje_privado": false,
+      "nota": "Garaje particular en la esquina disponible para alquilar"
+    },
+    "precio": {
+      "monto": 95000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "telefono": "52451128"
+    }
+  },
+  {
+    "id_publicacion": 7,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Erickson"
+    },
+    "detalles_propiedad": {
+      "tipo": "Propiedad (Casa)",
+      "ubicacion": "Zona Luyanó, a 3 cuadras del hospital Hijas de Galicia",
+      "estado": "Recién remodelada",
+      "distribucion": [
+        "2 habitaciones (cada una con desván)",
+        "1 baño",
+        "Recibidor",
+        "Sala",
+        "Pasillo interior",
+        "Cocina amplia",
+        "Patio (sin remodelar)",
+        "Segundo cuarto (sin remodelar)"
+      ],
+      "detalles_constructivos": [
+        "Cocina incrustada con fregadero semi inteligente",
+        "Puertas de acero con 7 yales",
+        "Portada enchapada completa",
+        "Piso de mármol"
+      ]
+    },
+    "servicios_y_caracteristicas": {
+      "electricidad": "110v / 220v (no se va la luz)",
+      "agua": "Entra un día sí y uno no",
+      "gas": "De la calle",
+      "equipamiento_incluido": [
+        "Un split nuevo",
+        "Calentador de agua"
+      ]
+    },
+    "estado_legal": {
+      "papeles_en_orden": true
+    },
+    "precio": {
+      "monto": 38000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "WhatsApp / Llamada",
+      "telefono": "59169223"
+    }
+  },
+  {
+    "id_publicacion": 8,
+    "publicacion": {
+      "autor": "Raul Maso"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "distribucion": [
+        "Sala amplia",
+        "Baño",
+        "2 cuartos (con cama y closet)",
+        "Cocina",
+        "Comedor",
+        "Patio amplio"
+      ]
+    },
+    "equipamiento_y_electrodomesticos_incluidos": [
+      "Tv 32 pulgadas",
+      "Mesa de noche de 4 gavetas",
+      "Split 1T",
+      "Olla Reyna",
+      "Freidora de aire",
+      "Cocina de gas",
+      "Cocina eléctrica de 2 orillas",
+      "Ducha de agua fría y caliente"
+    ],
+    "servicios_y_caracteristicas": [
+      "Tanque de 1000 litros",
+      "Tanque de agua de 55 litros"
+    ],
+    "precio": {
+      "monto": "No especificado"
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "telefono": "52956130"
+    }
+  },
+  {
+    "id_publicacion": 9,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre / Venta de Casas baratas",
+      "autor_original": "Taimi Centelles"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa planta baja",
+      "uso_ideal": "Negocios o familia numerosa",
+      "ubicacion": "A dos cuadras de la calzada de 10 de octubre y una cuadra de Santa Catalina",
+      "distribucion": [
+        "6/4 (uno de los cuartos tiene baño y vestidor)",
+        "3 baños",
+        "Portal",
+        "Garage",
+        "Saleta",
+        "Hall",
+        "Jardín interior",
+        "Comedor amplio",
+        "Cocina",
+        "Mesanini",
+        "Patio de lavado",
+        "Cuarto de desahogo"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Corriente 110/220",
+      "Teléfono fijo",
+      "Nauta hogar",
+      "Cisterna",
+      "2 tanques elevados",
+      "Gas de la calle",
+      "Todo placa"
+    ],
+    "precio": {
+      "monto": 35000,
+      "moneda": "USD",
+      "negociable": true,
+      "nota": "Posibilidad de ajuste"
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "telefono": "63773133"
+    }
+  },
+  {
+    "id_publicacion": 10,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre / Venta de Casas baratas",
+      "autor_original": "Taimi Centelles"
+    },
+    "detalles_propiedad": {
+      "tipo": "Propiedad (Interior)",
+      "ubicacion": "Calzada de 10/10",
+      "distribucion": [
+        "1 Cuarto Grande",
+        "Terracita"
+      ],
+      "condicion_estructura": [
+        "Viga y losa en perfecto estado",
+        "Sin filtraciones",
+        "Sin nadie encima",
+        "Acabada de pintar"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Gas de la calle"
+    ],
+    "equipamiento_incluido": [
+      "2 Tanques Elevados grandes",
+      "Teléfono fijo",
+      "1 TV",
+      "2 refrigeradores",
+      "Motor de agua"
+    ],
+    "precio": {
+      "monto": 5500,
+      "moneda": "USD",
+      "nota": "Me urge vender. Solo personas con el dinero por favor."
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "telefono": "63773133"
+    }
+  },
+  {
+    "id_publicacion": 11,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Melisa Rondon"
+    },
+    "detalles_propiedad": {
+      "tipo": "Puerta de calle (casa independiente)",
+      "ubicacion": "municipio 10 de octubre, reparto Lawton",
+      "ano_construccion": 1950,
+      "distribucion": [
+        "3 cuartos y medio",
+        "2 baños",
+        "Sala",
+        "Comedor",
+        "Cocina",
+        "Patio",
+        "Terraza",
+        "Jardín",
+        "Garaje"
+      ],
+      "caracteristicas_fisicas": [
+        "Hace esquina",
+        "Techo libre"
+      ]
+    },
+    "servicios_y_extras": [
+      "Tanque elevado de 1000 litros",
+      "Teléfono fijo"
+    ],
+    "precio": {
+      "monto": null,
+      "nota": "No especificado"
+    },
+    "contacto": {
+      "telefono": "51384080"
+    }
+  },
+  {
+    "id_publicacion": 12,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Alain Machu"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "Calle 23 entre San Francisco y Baragua, 10 de octubre, Lawton",
+      "piso": "Tercer piso",
+      "distribucion": [
+        "Sala",
+        "Cocina comedor",
+        "Baño",
+        "Dos cuartos con closet",
+        "Balcón amplio",
+        "Patio de servicio"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Dos tanques elevados de agua",
+      "Cisterna amplia del edificio",
+      "Teléfono fijo",
+      "La casa está enrejada"
+    ],
+    "precio": {
+      "monto": null,
+      "nota": "No especificado"
+    },
+    "contacto": {
+      "metodo": "Llamada o WhatsApp",
+      "telefonos": [
+        "54494713",
+        "52184049"
+      ]
+    }
+  },
+  {
+    "id_publicacion": 13,
+    "publicacion": {
+      "grupo": "Venta de casas en 10 de octubre",
+      "autor": "Magela Pérez"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de octubre, a dos cuadras de la Calzada Lacret",
+      "piso": "Bajos (final del pasillo)",
+      "tipo_edificio": "Edificio capitalista",
+      "distribucion": [
+        "Sala",
+        "Comedor",
+        "Cocina",
+        "Baño intercalado",
+        "2 habitaciones",
+        "Patio",
+        "Cuarto de lavado"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Tiene agua siempre",
+      "Gas de la calle"
+    ],
+    "estado_legal": {
+      "papeles_en_regla": true
+    },
+    "precio": {
+      "monto": 12000,
+      "moneda": "USD",
+      "negociable": true,
+      "nota": "Ajustable"
+    },
+    "contacto": {
+      "metodo": "Llamada",
+      "telefono": "55822131"
+    }
+  },
+  {
+    "id_publicacion": 14,
+    "publicacion": {
+      "grupo": "Venta de casas en 10 d... / ✅Venta de casas🍀La...",
+      "autor": "No especificado"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa (Planta baja de una biplanta)",
+      "ubicacion": "Lawton, cerca del parque B y el paradero",
+      "distribucion": [
+        "Sala",
+        "Comedor",
+        "Cocina",
+        "2 cuartos amplios (con closet)",
+        "Baño",
+        "Terraza techada con lavadero"
+      ]
+    },
+    "servicios_y_caracteristicas": {
+      "agua": "Suministro en días alternos",
+      "equipamiento_incluido": [
+        "Motor de agua",
+        "Gas de Balita con contrato",
+        "Cisterna",
+        "Juego de sala",
+        "Cama con colchón",
+        "Split",
+        "Refrigerador",
+        "Televisor pantalla plana",
+        "Microwave",
+        "Equipo de música",
+        "Ventilador",
+        "Otros electrodomésticos"
+      ]
+    },
+    "precio": {
+      "monto": 8500,
+      "moneda": "USD",
+      "negociable": true,
+      "nota": "Me ajusto con dinero en mano"
+    },
+    "contacto": {
+      "metodo": "Teléfono",
+      "telefono": "56385735"
+    }
+  },
+  {
+    "id_publicacion": 15,
+    "publicacion": {
+      "grupo": "Venta de casas en 10 d...",
+      "autor": "Cecilia Rodrigues"
+    },
+    "detalles_propiedad": {
+      "tipo": "Cuarto",
+      "ubicacion": "Santo Suárez (interior de 6 apart)",
+      "distribucion": [
+        "Cuarto",
+        "Patio"
+      ]
+    },
+    "precio": {
+      "monto": 2500,
+      "moneda": "USD",
+      "negociable": true
+    },
+    "contacto": {
+      "metodo": "Teléfono",
+      "telefono": "55113969"
+    }
+  },
+  {
+    "id_publicacion": 16,
+    "publicacion": {
+      "grupo": "Venta de casas en 10 d...",
+      "autor": "Yenisey Borrero Cuellar"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento puerta calle",
+      "ubicacion": "San Leopoldo (zona céntrica)",
+      "piso": "Primer piso",
+      "distribucion": [
+        "Recibidor",
+        "Sala",
+        "Cocina",
+        "Baño",
+        "2/4"
+      ],
+      "condicion": "Se deja con todo dentro"
+    },
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "Teléfono",
+      "telefono": "55838566"
+    }
+  },
+  {
+    "id_publicacion": 17,
+    "publicacion": {
+      "grupo": "Venta de casas en 10 d...",
+      "autor": "Yenisey Borrero Cuellar"
+    },
+    "detalles_propiedad": {
+      "tipo": "Propiedad/Espacio",
+      "descripcion": "Cuarto básico con baño y muebles (según imágenes)."
+    },
+    "precio": {
+      "monto": 2000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "Teléfono",
+      "telefono": "55838566"
+    }
+  },
+  {
+    "id_publicacion": 18,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Luzmay Fernandez"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "Lawton, en la cuadra de la escuela primaria Jorge Agustín",
+      "piso": "Segundo piso",
+      "distribucion": [
+        "Dos cuartos",
+        "Sala",
+        "Cocina",
+        "Portal cerrado",
+        "Baño",
+        "Patio de lavado"
+      ]
+    },
+    "equipamiento_incluido": [
+      "Gas de balita (con la balita)",
+      "Juego de mesa",
+      "Una cama"
+    ],
+    "precio": {
+      "monto": 4000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "Llamada o WhatsApp",
+      "telefono": "51953497"
+    }
+  },
+  {
+    "id_publicacion": 19,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Javier Enrique"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Lawton, frente a la Iglesia de los Pasionistas",
+      "distribucion": [
+        "2 cuartos arriba (1 con balcón)",
+        "Recibidor",
+        "Sala",
+        "Comedor",
+        "Cocina",
+        "Baño",
+        "Azotea libre"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Gas de la calle",
+      "Teléfono fijo",
+      "Tanque abajo y arriba"
+    ],
+    "precio": {
+      "monto": 20000,
+      "moneda": "USD",
+      "negociable": true
+    },
+    "contacto": {
+      "metodo": "WhatsApp / Llamadas",
+      "whatsapp": "+5358879738",
+      "telefono": "76905168"
+    }
+  },
+  {
+    "id_publicacion": 20,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Yami Perez",
+      "fecha": "Oct 20"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "piso": "Tercer piso",
+      "tipo_edificio": "Edificio capitalista",
+      "ubicacion": "Santo Suárez",
+      "distribucion": [
+        "1 cuarto"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Gas de la calle"
+    ],
+    "condicion": "Llegar y vivir",
+    "precio": {
+      "monto": 10000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "telefono": "55584096"
+    }
+  },
+  {
+    "id_publicacion": 21,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Yami Perez",
+      "fecha": "Sep 20"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "Santo Suárez, zona alta, cerca de Santa Catalina",
+      "distribucion": [
+        "2/4"
+      ]
+    },
+    "precio": {
+      "monto": 13000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "Llamada o WhatsApp",
+      "telefono": "55584096"
+    }
+  },
+  {
+    "id_publicacion": 22,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre"
+    },
+    "detalles_propiedad": {
+      "tipo": "Propiedad independiente",
+      "ubicacion": "Municipio Diez de octubre, Víbora",
+      "distribucion": [
+        "Sala",
+        "Comedor",
+        "Cocinita",
+        "1 dormitorio",
+        "Baño",
+        "Patio pequeño"
+      ],
+      "condicion": "Necesita algunos arreglos (oportunidad para adaptarla al gusto)"
+    },
+    "servicios_y_caracteristicas": {
+      "agua": "Sube por gravedad",
+      "tanques": [
+        "1 de 750 litros",
+        "1 en el patio de 300 litros"
+      ],
+      "otros": [
+        "Nauta Hogar (con equipo incluido)",
+        "Gas de la calle",
+        "Teléfono fijo",
+        "Placa libre de vigas y losa"
+      ]
+    },
+    "equipamiento_incluido": [
+      "Un split",
+      "Un juego de comedor y vitrina",
+      "Una litera",
+      "Una cocina de dos fogones"
+    ],
+    "precio": {
+      "monto": 8500,
+      "moneda": "USD",
+      "negociable": true,
+      "nota": "Me ajusto con dinero en mano"
+    },
+    "contacto": {
+      "metodo": "Teléfono",
+      "telefono": "56385735"
+    }
+  },
+  {
+    "id_publicacion": 23,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "ConectaHabana",
+      "fecha": "Oct 18",
+      "titulo": "CASA EN VENTA COLONIAL DE 4 CUARTOS CON PATIO FRUTAL EN 10 DE OCTUBRE"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa independiente colonial",
+      "ubicacion": "Cerca de Santa Catalina a pocas cuadras del banco de Lacret, 10 de Octubre",
+      "distribucion": [
+        "4 habitaciones",
+        "2 baños",
+        "Portal colonial (opción a garaje)",
+        "Patio amplio con árboles frutales y pasillo lateral",
+        "Saleta",
+        "Hall"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Gas de la calle",
+      "Agua todo el día"
+    ],
+    "uso_ideal": "Residencia familiar de lujo o negocio (hostal, restaurante, eventos)",
+    "precio": {
+      "monto": 60000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "WhatsApp",
+      "enlace": "https://iurl.tr/1SgrEu"
+    }
+  },
+  {
+    "id_publicacion": 24,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre / Venta de Casas baratas",
+      "autor": "Yeison PA Q Sepa"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "A 2 cuadras de 10 de Octubre y Dolores"
+    },
+    "precio": {
+      "monto": 4500,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "metodo": "Teléfono",
+      "telefono": "56230358"
+    }
+  },
+  {
+    "id_publicacion": 25,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "Ela SG"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa independiente",
+      "estado": "Lista para vivir o invertir (se deja con todo dentro)",
+      "ubicacion": "Reparto Luyano, a 3 cuadras de la Clzda de Luyano, cerca del Hospital Materno Hijas de Galicia",
+      "distribucion": [
+        "3 habitaciones en planta alta",
+        "1 baño",
+        "Sala amplia",
+        "Saleta",
+        "Segundo recibidor",
+        "Comedor",
+        "Cocina",
+        "Portal",
+        "Patio lateral",
+        "Patio trasero"
+      ],
+      "detalles_construccion": [
+        "Techo libre con manta",
+        "Placa intermedia desde la mitad",
+        "Viga y losa en la parte delantera con puntal alto",
+        "Rejas y trancas en toda la casa"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "2 tanques elevados con motor",
+      "220V",
+      "Gas de la calle"
+    ],
+    "equipamiento_incluido": [
+      "Planta eléctrica híbrida 3000W",
+      "2 refrigeradores",
+      "Nevera de 7.5 pies",
+      "Microondas",
+      "Freidora eléctrica",
+      "Cocina con horno",
+      "Lavadora semiautomática",
+      "3 split 1 ton c/u",
+      "2 PC (gamer con tarjeta de video)",
+      "TV 42\"",
+      "Mini Gym completo (caminadora, banco, polea, pesas, saco de boxeo, etc.)"
+    ],
+    "estado_legal": {
+      "papeles_listos_para_venta": true,
+      "posibilidad_telefono_fijo": true
+    },
+    "precio": {
+      "monto": 30000,
+      "moneda": "USD",
+      "negociable": true
+    },
+    "contacto": {
+      "metodo": "WhatsApp / Llamada",
+      "telefono": "53605462"
+    }
+  },
+  {
+    "id_publicacion": 26,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "La Isla Casas",
+      "codigo_referencia": "NV- 10280"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa independiente de dos niveles",
+      "ubicacion": "La Víbora, cercano al parque El Mónaco",
+      "ano_construccion": 1956,
+      "area_m2": 217,
+      "materiales": [
+        "Hormigón armado",
+        "Pisos de granito",
+        "Mosaico"
+      ],
+      "estado": "Requiere restauración",
+      "distribucion": {
+        "planta_baja": [
+          "Jardín",
+          "Portal",
+          "Garaje",
+          "Saleta",
+          "Sala",
+          "Cocina-comedor",
+          "2 habitaciones",
+          "1 servicio sanitario",
+          "Patio cementado"
+        ],
+        "planta_alta": [
+          "Sala",
+          "Cocina-comedor",
+          "2 terrazas",
+          "2 habitaciones",
+          "1 servicio sanitario"
+        ]
+      }
+    },
+    "servicios_y_caracteristicas": [
+      "Teléfono fijo",
+      "Gas de la calle",
+      "Cisterna propia",
+      "Corriente 110/220"
+    ],
+    "precio": {
+      "monto": 60000,
+      "moneda": "USD"
+    },
+    "contacto": {
+      "comerciales": [
+        {
+          "nombre": "Aymara",
+          "telefono": "+53 5 2818020"
+        },
+        {
+          "nombre": "Valodia",
+          "telefono": "+53 5 2843728"
+        }
+      ],
+      "oficina_comercial": "Zapata y 24 en el Vedado - 78325955"
+    }
+  },
+  {
+    "id_publicacion": 27,
+    "publicacion": {
+      "grupo": "Casas en 10 de octubre",
+      "autor": "La Isla Casas",
+      "codigo_referencia": "NV-10168"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "Santos Suárez, cercano a Juan Delgado y Lacret",
+      "piso": "2do piso",
+      "ano_construccion": 1950,
+      "area_m2": 86,
+      "caracteristicas_edificacion": [
+        "Sólida edificación de 6 propiedades",
+        "Cubierta de hormigón armado",
+        "Pisos de mosaico",
+        "Buena ventilación y luz natural"
+      ],
+      "distribucion": [
+        "Sala-comedor",
+        "Terraza",
+        "Cocina",
+        "Patio techado",
+        "2 habitaciones",
+        "Habitación de usos múltiples",
+        "2 servicios sanitarios"
+      ]
+    },
+    "servicios_y_caracteristicas": [
+      "Gas de la calle",
+      "Corriente 110/220",
+      "Tanque propio"
+    ],
+    "precio": {
+      "monto_actual": 15000,
+      "monto_anterior": 17000,
+      "moneda": "USD",
+      "nota": "Súper rebaja"
+    },
+    "contacto": {
+      "comerciales": [
+        {
+          "nombre": "Deborah",
+          "telefono": "+53 5 2973952"
+        },
+        {
+          "nombre": "Beatriz",
+          "telefono": "+53 5 2501330"
+        }
+      ],
+      "oficina_comercial": "Zapata y 24 en el Vedado - 78325955"
+    }
+  },
+  {
+    "id_publicacion": 1,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:16:41"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Venta apto 2/4 en Santo Suárez moderno municipio 10 octubre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 25000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-apto-24-en-santo-suarez-municipio-10-octubre-57317211?p"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:16:41"
+  },
+  {
+    "id_publicacion": 2,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:16:43"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Venta de apart o cambio con un vuelto $ por algo más grande",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Permuta: SÍ"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-apart-o-cambio-con-un-vuelto-por-algo-mas-grande-57719762?p"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:16:43"
+  },
+  {
+    "id_publicacion": 3,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:16:54"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, SE VENDE APARTAMENTO",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 12500,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-apartamento-58193578"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:16:54"
+  },
+  {
+    "id_publicacion": 4,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:16:55"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, SE VENDE CASA",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 60000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-casa-57692514"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:16:55"
+  },
+  {
+    "id_publicacion": 5,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:16:57"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, (al319)-25000-Casa independiente en Santos Suárez.(53022922).",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 25000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-independiente-en-santos-suarez53022922-mandy-44964739"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:16:57"
+  },
+  {
+    "id_publicacion": 6,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:08"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, (al297)-Biplanta en Santos Suárez.(53o22922).",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 20000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/al297-biplanta-en-santos-suarez53o22922-44935344"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:08"
+  },
+  {
+    "id_publicacion": 7,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:10"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, (al313)-70000-Casa independiente de 4 niveles en Santos Suárez.(53o22922).(www.v",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 70000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/al313-78000-casa-independiente-de-4-niveles-en-santos-suarez53o22922wwwventacasasmandycom-51131233"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:10"
+  },
+  {
+    "id_publicacion": 8,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:11"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, 🔴Casa Grande para Almacén 240m²📦",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 80000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-grande-para-almacen-240m2-56416044"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:11"
+  },
+  {
+    "id_publicacion": 9,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:23"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa en venta",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 60000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-en-venta-56985062"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:23"
+  },
+  {
+    "id_publicacion": 10,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:24"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Compro apto en playa, vedado y nuevo vedado. Tengo 8500",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 8500,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/compro-apto-en-playa-vedado-y-nuevo-vedado-tengo-8500-57956298"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:24"
+  },
+  {
+    "id_publicacion": 11,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:37"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Apartamento en la Vibora",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-en-la-vibora-54960186"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:37"
+  },
+  {
+    "id_publicacion": 12,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:38"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 70,000 USD",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 70000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/reparto-residencial-asuncion-10-de-octubre-70000-usd-58279727"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:38"
+  },
+  {
+    "id_publicacion": 13,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:51"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Apartamento en el Mónaco con todo incluído garaje 3 cuartos y 3 baños",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 48000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-en-el-monaco-con-todo-incluido-garaje-3-cuartos-y-3-banos-56461362"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:51"
+  },
+  {
+    "id_publicacion": 14,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:52"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa independiente en Santo Suárez con garaje",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 64000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-independiente-en-santo-suarez-con-garaje-58176457"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:52"
+  },
+  {
+    "id_publicacion": 15,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:17:54"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Vendo Casa independiente en Lawton 10 de Octubre,placa libre,garaje,patio y pape",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 18000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-casa-independiente-en-lawton-10-de-octubreplaca-libregarajepatio-y-papeles-en-regla-56370283"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:17:54"
+  },
+  {
+    "id_publicacion": 16,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:05"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Apto en bajo en Santos Suárez cerca de Santa Catalina",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 12000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apto-en-bajo-en-santos-suarez-cerca-de-santa-catalina-58042185"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:05"
+  },
+  {
+    "id_publicacion": 17,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:07"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa en Santos Suárez",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 29000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-en-santos-suarez-57431071"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:07"
+  },
+  {
+    "id_publicacion": 18,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:09"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Casa apto en un 1er piso cerca de Santa Catalina",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-apto-en-un-1er-piso-cerca-de-santa-catalina-56642821"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:09"
+  },
+  {
+    "id_publicacion": 19,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:20"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa Independiente en Santos Suárez cerca d Santa Catalina",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 50000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-independiente-en-santos-suarez-cerca-d-santa-catalina-55718174"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:20"
+  },
+  {
+    "id_publicacion": 20,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:23"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Venta de casa en Lautow/ placa libre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 22000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-casa-en-lautow-placa-libre-58319790"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:23"
+  },
+  {
+    "id_publicacion": 21,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:35"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 25,000 USD",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 25000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/nueva-casa-puesta-en-venta-en-10-de-octubre-santo-suares-con-todo-adentro-55866599"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:35"
+  },
+  {
+    "id_publicacion": 22,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:38"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Permuto y recojo buelto a mi favor",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 11223778,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Permuta: SÍ"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58334346"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:38"
+  },
+  {
+    "id_publicacion": 23,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:49"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Permuto casa en 10 de octubre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 11122222,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Permuta: SÍ"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/permuto-casa-en-10-de-octubre-58334287"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:49"
+  },
+  {
+    "id_publicacion": 24,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:50"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Permuto y recojo buelto a mi favor",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 1111111111,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Permuta: SÍ"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58333525"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:50"
+  },
+  {
+    "id_publicacion": 25,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:18:52"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Permuto 2 apartamento y recojo buelto a mi favor",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 1111111111,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Permuta: SÍ"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/permuto-2-apartamento-y-recojo-buelto-a-mi-favor-58333411"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:18:52"
+  },
+  {
+    "id_publicacion": 26,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:03"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Apartamento de dos  cuartos",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 6000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-de-dos-cuartos-56030942"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:03"
+  },
+  {
+    "id_publicacion": 27,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:04"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, CASA_EN ALTOS_ LUYANÓ_ DIEZ DE OCTUBRE",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa_en-altos_-luyano_-diez-de-octubre-58095731"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:04"
+  },
+  {
+    "id_publicacion": 28,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:06"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, VENTA_APARTAMENTO_EN ALTOS_LUYANÓ_DIEZ DE OCTUBRE",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 25000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta_apartamento_en-altos_luyano_diez-de-octubre-58117455"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:06"
+  },
+  {
+    "id_publicacion": 29,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:18"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, VENTA_CASA EN ALTO_MÓNACO_DIEZ DE OCTUBRE  ¡",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta_casa-en-alto_monaco_diez-de-octubre-58088194"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:18"
+  },
+  {
+    "id_publicacion": 30,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:22"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Alquiler de apartamento con electricidad e internet 24H (Ideal para agentes de v",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 10,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/alquiler-de-apartamento-con-electricidad-e-internet-24h-ideal-para-agentes-de-ventas-57230152"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:22"
+  },
+  {
+    "id_publicacion": 31,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:35"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Vendo casa grande totalmente independientes en reparto Santos Suárez",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-casa-grande-totalmente-independientes-en-reparto-santos-suarez-56360375"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:35"
+  },
+  {
+    "id_publicacion": 32,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:36"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Vendo casa de dos plantas en santos Suárez",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 18000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-casa-de-dos-plantas-en-santos-suarez-56678413"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:36"
+  },
+  {
+    "id_publicacion": 33,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:38"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Biplanta independiente en el Cerro",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/biplanta-independiente-en-el-cerro-57954437"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:38"
+  },
+  {
+    "id_publicacion": 34,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:52"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Vendo apto. de 3/4 en la Víbora",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-apto-de-34-en-la-vibora-58330788"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:52"
+  },
+  {
+    "id_publicacion": 35,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:56"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Alquiler",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 50000,
+      "moneda": "CUP",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/alquiler-58286882"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:56"
+  },
+  {
+    "id_publicacion": 36,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:19:57"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Venta de Casa en Lawton",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 33000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-casa-en-lawton-58329459"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:19:57"
+  },
+  {
+    "id_publicacion": 37,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:09"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Venta de casa en Lawton",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 30000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-casas-55845341"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:09"
+  },
+  {
+    "id_publicacion": 38,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:22"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 🚨 Se Vende propiedad independiente",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-propiedad-independiente-57323098"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:22"
+  },
+  {
+    "id_publicacion": 39,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:23"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Se Vende Casa en santos Suárez",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 17000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-casa-en-santos-suarez-57961246"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:23"
+  },
+  {
+    "id_publicacion": 40,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:25"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Vende tu casa rápido",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 1,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vende-tu-casa-rapido-57282965"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:25"
+  },
+  {
+    "id_publicacion": 41,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:36"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, ✨ GRAN OPORTUNIDAD DE INVERSIÓN Y VIVIENDA – 10 DE OCTUBRE 🏡",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/gran-oportunidad-de-inversion-y-vivienda-10-de-octubre-58327646"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:36"
+  },
+  {
+    "id_publicacion": 42,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:38"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Permuto 1x2",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Permuta: SÍ"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/permuto-1x2-57895191"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:38"
+  },
+  {
+    "id_publicacion": 43,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:39"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, ✨ VENTA DE CASA – REPARTO RESIDENCIAL ASUNCIÓN, 10 DE OCTUBRE 🏡",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 70000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-casa-reparto-residencial-asuncion-10-de-octubre-58326838"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:39"
+  },
+  {
+    "id_publicacion": 44,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:51"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, ✨ OPORTUNIDAD ÚNICA: HOGAR + NEGOCIO EN UN SOLO INMUEBLE 🏠",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 75000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/oportunidad-unica-hogar-negocio-en-un-solo-inmueble-58326298"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:51"
+  },
+  {
+    "id_publicacion": 45,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:52"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 250 USD",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 250,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/habitacion-independiente-con-cocina-y-patio-en-la-vibora-ref-1394-51079049"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:52"
+  },
+  {
+    "id_publicacion": 46,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:20:54"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Vendo casa independiente en Nuevo Vedado",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 270000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-casa-independiente-en-nuevo-vedado-56754991"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:20:54"
+  },
+  {
+    "id_publicacion": 47,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:05"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Venta de casa interior",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 9000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-casa-interior-57847360"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:05"
+  },
+  {
+    "id_publicacion": 48,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:08"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Hoteles todo incluído - Varadero - Jibacoa - Cayo Santa María (Kinetica)",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/ofertas-de-verano-varadero-la-habana-cayo-santa-maria-kinetica-55738219"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:08"
+  },
+  {
+    "id_publicacion": 49,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:20"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Oportunidad de apartamento en Diez de Octubre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 23000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/oportunidad-de-apartamento-en-diez-de-octubre-56202133"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:20"
+  },
+  {
+    "id_publicacion": 50,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:21"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Oportunidad de inmueble en Lawton, Diez de Octubre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 18000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/oportunidad-de-inmueble-en-lawton-diez-de-octubre-57455124"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:21"
+  },
+  {
+    "id_publicacion": 51,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:23"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Se vende apartamento capitalista en la Víbora 92m2 cerca del Palacio de los matr",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 25000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-apartamento-capitalista-en-la-vibora-92m2-cerca-del-palacio-de-los-matrimonios-y-matias-rodriguez-58325911"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:23"
+  },
+  {
+    "id_publicacion": 52,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:34"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Oportunidad de vivienda en el Sevillano-10 de octubre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 23000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/oportunidad-de-vivienda-en-el-sevillano-10-de-octubre-55201555"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:34"
+  },
+  {
+    "id_publicacion": 53,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:35"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Oportunidad de inmueble en Reparto Lawton,Diez de Octubre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 27000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/oportunidad-de-inmueble-en-reparto-lawtondiez-de-octubre-57455071"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:35"
+  },
+  {
+    "id_publicacion": 54,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:37"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, PISCINA DISPONIBLE PARA RENTA EN SAN MIGUEL.",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/piscina-disponible-para-renta-en-san-miguel-57832714"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:37"
+  },
+  {
+    "id_publicacion": 55,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:38"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Vendo casa en Lawton",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-casa-en-lawton-58132964"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:38"
+  },
+  {
+    "id_publicacion": 56,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:52"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Vendo apartamento capitalista garaje último piso con balcón semi interior en la ",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-apartamento-capitalista-garaje-ultimo-piso-con-balcon-semi-interior-en-la-vibora-cerca-del-tribunal-provincial-58325597"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:52"
+  },
+  {
+    "id_publicacion": 57,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:21:53"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, 🏡 SE VENDE O SE PERMUTA APARTAMENTO EN PLANTA BAJA, SEVILLANO, 10 DE OCTUBRE.",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 12000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Permuta: SÍ"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-o-se-permuta-apartamento-en-planta-baja-sevillano-10-de-octubre-55911834"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:21:53"
+  },
+  {
+    "id_publicacion": 58,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:05"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, 10 de Octubre y Vía Blanca:Apto de 2/4 en 3erPiso,Ventanales a la Calle,Azotea P",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 7000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/10-de-octubre-y-via-blancaapto-de-24-en-3erpisoventanales-a-la-calleazotea-propiay-una-casita-de-madera-independien-57857150"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:05"
+  },
+  {
+    "id_publicacion": 59,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:06"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 💥6500💥",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 6500,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/6500-58324814"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:06"
+  },
+  {
+    "id_publicacion": 60,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:08"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 4,000 USD",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 4000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/4000-usd-con-cosas-dentro-58324660"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:08"
+  },
+  {
+    "id_publicacion": 61,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:20"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa bastante grande",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 25000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-bastante-grande-57324516"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:20"
+  },
+  {
+    "id_publicacion": 62,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:21"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 35 USD",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 35,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-espacioso-de-1-habitacion-en-la-vibora-ref-1393-50373980"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:21"
+  },
+  {
+    "id_publicacion": 63,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:22"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 35 USD",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 35,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-independiente-en-santos-suarez-de-2-cuartos-pasadias-a-varadero-y-vinales-ref-1303-49744411"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:22"
+  },
+  {
+    "id_publicacion": 64,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:34"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa independiente en el sevillano",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 55000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-independiente-en-el-sevillano-57760771"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:34"
+  },
+  {
+    "id_publicacion": 65,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:35"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa independiente con respaldo energetico en la vibora",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-independiente-con-respaldo-energetico-en-la-vibora-57509349"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:35"
+  },
+  {
+    "id_publicacion": 66,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:37"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Apartamento amplio en 10 de octubre la víbora",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 26000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-amplio-en-10-de-octubre-la-vibora-58323680"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:37"
+  },
+  {
+    "id_publicacion": 67,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:22:48"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, Apartamento en Sevillano",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 9000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-en-sevillano-57531862"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:22:48"
+  },
+  {
+    "id_publicacion": 68,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:23:05"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, ¡SE VENDE CASA EN ALTO  EN MÓNACO! #154",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-casa-en-alto-en-monaco-154-57941793"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:23:05"
+  },
+  {
+    "id_publicacion": 69,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:23:20"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa de 2 plantas y auto. El hogar para la  familia por siempre 45 000 usd. Lawt",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322852"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:23:20"
+  },
+  {
+    "id_publicacion": 70,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:23:31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa de 2 plantas y auto. El hogar para la  familia por siempre 45 000 usd. Lawt",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322851"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:23:31"
+  },
+  {
+    "id_publicacion": 71,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:23:46"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "10 de Octubre, apto en alto en lawton",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 25000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apto-en-alto-en-lawton-57022144"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:23:46"
+  },
+  {
+    "id_publicacion": 72,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:23:47"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, 150 USD",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 150,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/150-usd-apartamento-de-14-en-santos-suarez-58160551"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:23:47"
+  },
+  {
+    "id_publicacion": 73,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:23:58"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Puertas blindadas Polimetalicas",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 410,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/puertas-blindadas-polimetalicas-53869917"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:23:58"
+  },
+  {
+    "id_publicacion": 74,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:24:00"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa en interior, 5 cuartos, 4 baños + piscina, 2 entradas independientes. Cerca",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 35000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-con-5-cuartos-4-banos-piscina-2-entradas-independientes-cerca-de-santa-catalina-y-10-de-octubre-54193773"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:24:00"
+  },
+  {
+    "id_publicacion": 75,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:24:01"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Puerta para exterior e interior",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 250,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/puerta-para-exterior-e-interior-58321879"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:24:01"
+  },
+  {
+    "id_publicacion": 76,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:24:12"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, ☀️ ¡EL PLAN PERFECTO EN LAWTON! ☀️",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/el-plan-perfecto-en-lawton-56219131"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:24:12"
+  },
+  {
+    "id_publicacion": 77,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:24:14"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, ¡Piscina, Jacuzzi y Privacidad Total para tus Pasadías y Estancias! 🏊♂️🌴",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/piscina-jacuzzi-y-privacidad-total-para-tus-pasadias-y-estancias-58180723"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:24:14"
+  },
+  {
+    "id_publicacion": 78,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:24:15"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Vendo mi casa por el Semáforo de Acosta y Porvenir descripción abajo ⬇️ 38mil aj",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 1,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/vendo-mi-casa-por-el-semaforo-de-acosta-y-porvenir-descripcion-abajo-38mil-ajustable-con-cosas-adentro-58321529"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:24:15"
+  },
+  {
+    "id_publicacion": 79,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:24:31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "10 de Octubre, Casa de Renta",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 50,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-de-renta-57619950"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:24:31"
+  },
+  {
+    "id_publicacion": 80,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31 11:28:59"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "10 de Octubre, Gran vivienda en venta en 10 de octubre",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 45000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/gran-vivienda-en-venta-en-10-de-octubre-58320925"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Activo",
+    "fecha_verificacion": "2026-10-31 11:28:59"
+  },
+  {
+    "id_publicacion": 58195185,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Diez de Octubre, 70,000 USD 🏡✨ *VENTA DE CASA – REPARTO RESIDENCIAL ASUNCIÓN, 10 DE OCTUBRE* ✨🏡",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 70000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-casa-reparto-residencial-asuncion-10-de-octubre-58195185"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:16"
+  },
+  {
+    "id_publicacion": 58194991,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "Diez de Octubre, 75,000 USD 🏠 *OPORTUNIDAD ÚNICA: HOGAR + NEGOCIO EN UN SOLO INMUEBLE | CALZADA 1",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 75000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/oportunidad-unica-hogar-negocio-en-un-solo-inmueble-calzada-10-de-octubre-58194991"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:16"
+  },
+  {
+    "id_publicacion": 58329526,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "Diez de Octubre, 15,000 USD _Luyano, justo cerca de la funeraria 📍, en una zona bien ubicada y co",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/luyano-justo-cerca-de-la-funeraria-en-una-zona-bien-ubicada-y-con-altura-58329526"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:16"
+  },
+  {
+    "id_publicacion": 58329395,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Diez de Octubre, 15,000 USD 🏠 *¡SE VENDE CASA EN ALTO  EN MÓNACO! DIEZ DE OCTUBRE  ¡OPORTUNIDAD A",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-casa-en-alto-en-monaco-diez-de-octubre-oportunidad-a-buen-precio-58329395"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:16"
+  },
+  {
+    "id_publicacion": 54519235,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Diez de Octubre, 100,000 USD Se vende casa independiente preparada para renta con todo incluído y",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 100000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-casa-independiente-preparada-para-renta-en-la-vibora-54519235"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:16"
+  },
+  {
+    "id_publicacion": 58488195,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "Diez de Octubre, 15,000 USD $ 15 000 USD. En venta apartamento en La Víbora, 10 de Octubre, Vista",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 15000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/15-000-usd-en-venta-apartamento-en-la-vibora-10-de-octubre-vista-alegre-cerca-de-la-secundaria-58488195"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:16"
+  },
+  {
+    "id_publicacion": 58027019,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Diez de Octubre, 6,500 USD CASA INDEPENDIENTE LUYANO",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 6500,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-independiente-luyano-58027019"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:19"
+  },
+  {
+    "id_publicacion": 58118864,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Diez de Octubre, 60 USD CASA EN EL SEVILLANO",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 60,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/casa-en-el-sevillano-58118864"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:19"
+  },
+  {
+    "id_publicacion": 58424701,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "Diez de Octubre, 64,000 USD Venta de propiedad independiente en Santos Suárez",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 64000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-propiedad-independiente-en-santos-suarez-58424701"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:19"
+  },
+  {
+    "id_publicacion": 58357882,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Diez de Octubre, 35,000 USD SE VENDE ESTA CASA 🏠 EN LUYANO 👁️👆👆👆 ( Papeles en orden,  Propiedad, ",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 35000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/se-vende-esta-casa-en-luyano-papeles-en-orden-propiedad-recien-remodelada-58357882"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:19"
+  },
+  {
+    "id_publicacion": 58484491,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Casa",
+      "ubicacion": "Diez de Octubre, 🏡 *VENTA DE CASA EN ARROYO NARANJO – SEVILLANO*",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": null,
+      "moneda": "",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/venta-de-casa-en-arroyo-naranjo-sevillano-58484491"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:19"
+  },
+  {
+    "id_publicacion": 57975684,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Inmueble",
+      "ubicacion": "Diez de Octubre, 40,000 CUP Renta de garaje original amplio para negocio Lawton 40mil cup al mes ",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 40000,
+      "moneda": "CUP",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/renta-de-garaje-para-negocio-lawton-40mil-53582376-57975684"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:21"
+  },
+  {
+    "id_publicacion": 58483093,
+    "publicacion": {
+      "grupo": "Revolico",
+      "autor": "Revolico",
+      "fecha": "2026-10-31"
+    },
+    "detalles_propiedad": {
+      "tipo": "Apartamento",
+      "ubicacion": "Diez de Octubre, 12,000 USD 🏠 ¡APARTAMENTO EN VENTA EN LAWTON, DIEZ DE OCTUBRE! 🏠 💰",
+      "distribucion": []
+    },
+    "servicios_y_caracteristicas": [],
+    "equipamiento_incluido": [],
+    "precio": {
+      "monto": 12000,
+      "moneda": "USD",
+      "negociable": false,
+      "nota": "Precio fijo"
+    },
+    "contacto": {
+      "telefono": "",
+      "metodo": "Vía Revolico",
+      "enlace_revolico": "https://www.revolico.com/item/apartamento-en-venta-en-lawton-diez-de-octubre-58483093"
+    },
+    "fuente": "revolico",
+    "estado": "activo",
+    "motivo_estado": "Nuevo anuncio",
+    "fecha_verificacion": "2026-10-31 11:29:21"
+  }
+]

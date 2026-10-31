@@ -1,0 +1,466 @@
+================================================================================
+                    LISTA DE ANOMALÍAS GRAVES Y DATOS FALTANTES
+              REPOSITORIO: Mercado Digital Cubano - 10 de Octubre
+================================================================================
+
+Fecha de generacion: 31 de octubre de 2026
+Total de anuncios en datos/brutos/revolico_crudos.json: 101
+Archivo fuente: datos/brutos/revolico_crudos.json
+
+================================================================================
+CRITERIOS DE CLASIFICACION
+================================================================================
+
+ANOMALÍA GRAVE: El anuncio tiene un error evidente que invalida su uso
+en el analisis (precio imposible, no es inmueble, municipio incorrecto,
+titulo es solo un precio, etc.)
+
+DATOS FALTANTES: El anuncio no tiene informacion necesaria para responder
+uno o más de los 6 bloques de preguntas de investigacion.
+
+BLOQUES DE PREGUNTAS:
+  A - Precios del mercado (necesita: precio + moneda)
+  B - Tipos de inmueble (necesita: tipo de inmueble claro en el titulo)
+  C - Caracteristicas físicas (necesita: cuartos, garaje, planta baja, m2)
+  D - Ubicacion (necesita: barrio/zona especifica dentro de 10 de Octubre)
+  E - Moneda y mercado informal (necesita: moneda declarada)
+  F - Recomendacion practica (necesita: datos de los bloques anteriores)
+
+================================================================================
+SECCION 1: ANUNCIOS CON ANOMALÍAS GRAVES (DEBEN ELIMINARSE O REVISARSE)
+================================================================================
+
+Total de anuncios con anomalías graves: 27
+
+--- ANOMALÍA 1: BOTÓN "PUBLICAR ANUNCIO" (no es un anuncio real) ---
+#1. Titulo: Publicar anuncio
+    Precio: null | Moneda: (vacío) | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/publish
+    Problema: Es el botón de publicar del sitio web, no un anuncio inmobiliario.
+    Bloques afectados: TODOS (A, B, C, D, E, F)
+
+--- ANOMALÍA 2: PRECIO SOSPEchosamente BAJO (< 100 USD) ---
+#2. Titulo: Se vende casa independiente en Santo Suárez
+    Precio: 1 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/se-vende-casa-independiente-en-santo-suarez-57689093
+    Problema: Precio de 1 USD es imposible para una casa. Probablemente marcador o error.
+    Bloques afectados: A (precio distorsiona promedio), E
+
+#3. Titulo: Vende tu casa rápido
+    Precio: 1 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/vende-tu-casa-rapido-57282965
+    Problema: Precio de 1 USD. Título genérico sin información útil.
+    Bloques afectados: A, B, C, D, E
+
+#4. Titulo: Vendo mi casa por el Semáforo de Acosta y Porvenir descripción abajo 38mil ajustable con cosas adentro
+    Precio: 1 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/vendo-mi-casa-por-el-semaforo-de-acosta-y-porvenir-descripcion-abajo-38mil-ajustable-con-cosas-adentro-58321529
+    Problema: Precio de 1 USD pero el título menciona "38mil". Inconsistencia evidente.
+    Bloques afectados: A, E
+
+#5. Titulo: Casa de Renta
+    Precio: 50 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/casa-de-renta-57619950
+    Problema: Precio de 50 USD es imposible para una casa en renta mensual.
+    Bloques afectados: A, E
+
+#6. Titulo: Alquiler de apartamento con electricidad e internet 24H (Ideal para agentes de ventas)
+    Precio: 10 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/alquiler-de-apartamento-con-electricidad-e-internet-24h-ideal-para-agentes-de-ventas-57230152
+    Problema: Precio de 10 USD/mes es imposible. Probablemente precio diario o error.
+    Bloques afectados: A, E
+
+#7. Titulo: 35 USD (apartamento espacioso de 1 habitación en La Víbora)
+    Precio: 35 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/apartamento-espacioso-de-1-habitacion-en-la-vibora-ref-1393-50373980
+    Problema: Precio de 35 USD es imposible para un apartamento.
+    Bloques afectados: A, E
+
+#8. Titulo: 35 USD (apartamento independiente en Santos Suárez de 2 cuartos)
+    Precio: 35 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/apartamento-independiente-en-santos-suarez-de-2-cuartos-pasadias-a-varadero-y-vinales-ref-1303-49744411
+    Problema: Precio de 35 USD es imposible.
+    Bloques afectados: A, E
+
+#9. Titulo: 150 USD (apartamento de 14 en Santos Suárez)
+    Precio: 150 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/150-usd-apartamento-de-14-en-santos-suarez-58160551
+    Problema: Precio de 150 USD es sospechosamente bajo para un apartamento.
+    Bloques afectados: A, E
+
+#10. Titulo: 250 USD (habitación independiente con cocina y patio en La Víbora)
+    Precio: 250 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/habitacion-independiente-con-cocina-y-patio-en-la-vibora-ref-1394-51079049
+    Problema: Precio de 250 USD es sospechosamente bajo.
+    Bloques afectados: A, E
+
+#11. Titulo: 450 USD (amplia casa de 2 habitaciones en Santos Suárez)
+    Precio: 450 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/amplia-casa-de-2-habitaciones-en-santos-suarez-10-de-octubre-57482712
+    Problema: Precio de 450 USD es sospechosamente bajo para una casa.
+    Bloques afectados: A, E
+
+#12. Titulo: Venta de casa en Playa (titulo dice "paya")
+    Precio: 25 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/venta-de-casa-en-paya-58329119
+    Problema: Precio de 25 USD es imposible. Municipio en título dice Playa (no es 10 de Octubre).
+    Bloques afectados: A, D, E
+
+--- ANOMALÍA 3: PRECIO SOSPEchosamente ALTO (> 1,000,000 USD) ---
+#13. Titulo: Permuto y recojo buelto a mi favor
+    Precio: 11,223,778 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58334346
+    Problema: Precio de 11 millones USD es imposible para el mercado cubano.
+    Bloques afectados: A, E
+
+#14. Titulo: Permuto casa en 10 de octubre
+    Precio: 11,122,222 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/permuto-casa-en-10-de-octubre-58334287
+    Problema: Precio de 11 millones USD es imposible.
+    Bloques afectados: A, E
+
+#15. Titulo: Permuto y recojo buelto a mi favor
+    Precio: 1,111,111,111 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58333525
+    Problema: Precio de 1,111 millones USD es imposible (error de digitación).
+    Bloques afectados: A, E
+
+#16. Titulo: Permuto 2 apartamento y recojo buelto a mi favor
+    Precio: 1,111,111,111 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/permuto-2-apartamento-y-recojo-buelto-a-mi-favor-58333411
+    Problema: Precio de 1,111 millones USD es imposible (error de digitación).
+    Bloques afectados: A, E
+
+--- ANOMALÍA 4: MUNICIPIO INCORRECTO (NO ES 10 DE OCTUBRE) ---
+#17. Titulo: Vendo casa independiente en Nuevo Vedado
+    Precio: 270,000 USD | Moneda: USD | Municipio: 10 de Octubre (ERROR)
+    Enlace: https://www.revolico.com/item/vendo-casa-independiente-en-nuevo-vedado-56754991
+    Problema: Nuevo Vedado pertenece al municipio Plaza de la Revolución, NO a 10 de Octubre.
+    Bloques afectados: A, D (precio distorsiona promedios del municipio)
+
+#18. Titulo: Biplanta independiente en el Cerro
+    Precio: 45,000 USD | Moneda: USD | Municipio: 10 de Octubre (ERROR)
+    Enlace: https://www.revolico.com/item/biplanta-independiente-en-el-cerro-57954437
+    Problema: El Cerro es otro municipio de La Habana, no es 10 de Octubre.
+    Bloques afectados: A, D
+
+#19. Titulo: Compro apto en playa, vedado y nuevo vedado. Tengo 8500
+    Precio: 8,500 USD | Moneda: USD | Municipio: 10 de Octubre (ERROR)
+    Enlace: https://www.revolico.com/item/compro-apto-en-playa-vedado-y-nuevo-vedado-tengo-8500-57956298
+    Problema: El título menciona Playa, Vedado y Nuevo Vedado (otros municipios). Además es un "compro", no un "vendo".
+    Bloques afectados: A, D
+
+#20. Titulo: Venta de casa en Playa (enlace dice "paya")
+    Precio: 25 USD | Moneda: USD | Municipio: 10 de Octubre (ERROR)
+    Enlace: https://www.revolico.com/item/venta-de-casa-en-paya-58329119
+    Problema: Municipio en título es Playa, no 10 de Octubre. Precio de 25 USD también es imposible.
+    Bloques afectados: A, D, E
+
+--- ANOMALÍA 5: NO ES UN ANUNCIO INMOBILIARIO ---
+#21. Titulo: Puertas blindadas Polimetalicas
+    Precio: 410 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/puertas-blindadas-polimetalicas-53869917
+    Problema: Es un anuncio de puertas, no de inmueble.
+    Bloques afectados: TODOS
+
+#22. Titulo: Puerta para exterior e interior
+    Precio: 250 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/puerta-para-exterior-e-interior-58321879
+    Problema: Es un anuncio de una puerta, no de inmueble.
+    Bloques afectados: TODOS
+
+#23. Titulo: Hoteles todo incluído - Varadero - Jibacoa - Cayo Santa María (Kinetica)
+    Precio: null | Moneda: (vacío) | Municipio: 10 de Octubre (ERROR)
+    Enlace: https://www.revolico.com/item/ofertas-de-verano-varadero-la-habana-cayo-santa-maria-kinetica-55738219
+    Problema: Es un anuncio de hoteles en Varadero/Cayo Santa María, no inmueble en 10 de Octubre.
+    Bloques afectados: TODOS
+
+#24. Titulo: ¡Piscina, Jacuzzi y Privacidad Total para tus Pasadías y Estancias!
+    Precio: null | Moneda: (vacío) | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/piscina-jacuzzi-y-privacidad-total-para-tus-pasadias-y-estancias-58180723
+    Problema: Es un anuncio de alquiler de piscina/jacuzzi por horas/días, no venta/alquiler de inmueble.
+    Bloques afectados: TODOS
+
+--- ANOMALÍA 6: TÍTULO ES SOLO UN PRECIO (sin información del inmueble) ---
+#25. Titulo: 70,000 USD
+    Precio: 70,000 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/reparto-residencial-asuncion-10-de-octubre-70000-usd-58279727
+    Problema: El título solo dice el precio. No se sabe qué tipo de inmueble es, ni zona específica.
+    Bloques afectados: B, C, D
+
+#26. Titulo: 22,500 USD
+    Precio: 22,500 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/ganga-2-en-1-por-el-precio-de-1-casa-en-luyano-2-en-1-25-000-usd-57683040
+    Problema: El título casi solo dice precio. Muy poca información.
+    Bloques afectados: B, C, D
+
+#27. Titulo: 25,000 USD
+    Precio: 25,000 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/nueva-casa-puesta-en-venta-en-10-de-octubre-santo-suares-con-todo-adentro-55866599
+    Problema: El título casi solo dice precio.
+    Bloques afectados: B, C, D
+
+#28. Titulo: 💥6500💥
+    Precio: 6,500 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/6500-58324814
+    Problema: El título solo es un precio con emojis. No hay información del inmueble.
+    Bloques afectados: B, C, D
+
+#29. Titulo: 4,000 USD
+    Precio: 4,000 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/4000-usd-con-cosas-dentro-58324660
+    Problema: El título casi solo dice precio.
+    Bloques afectados: B, C, D
+
+#30. Titulo: 150 USD (apartamento de 14 en Santos Suárez)
+    Precio: 150 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/150-usd-apartamento-de-14-en-santos-suarez-58160551
+    Problema: Título casi solo precio. Además precio sospechosamente bajo.
+    Bloques afectados: A, B, C, D, E
+
+#31. Titulo: 450 USD (amplia casa de 2 habitaciones en Santos Suárez)
+    Precio: 450 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/amplia-casa-de-2-habitaciones-en-santos-suarez-10-de-octubre-57482712
+    Problema: Título casi solo precio. Precio sospechosamente bajo.
+    Bloques afectados: A, B, C, D, E
+
+--- ANOMALÍA 7: TÍTULO GENÉRICO SIN INFORMACIÓN ÚTIL ---
+#32. Titulo: SE VENDE APARTAMENTO
+    Precio: 12,500 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/se-vende-apartamento-58193578
+    Problema: No especifica zona, ni cuartos, ni características. Solo dice "apartamento".
+    Bloques afectados: C, D
+
+#33. Titulo: SE VENDE CASA
+    Precio: 60,000 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/se-vende-casa-57692514
+    Problema: No especifica zona, ni cuartos, ni características. Solo dice "casa".
+    Bloques afectados: C, D
+
+#34. Titulo: Casa en venta
+    Precio: 60,000 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/casa-en-venta-56985062
+    Problema: Título genérico. No especifica zona ni características.
+    Bloques afectados: C, D
+
+#35. Titulo: Alquiler
+    Precio: 50,000 CUP | Moneda: CUP | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/alquiler-58286882
+    Problema: Título genérico "Alquiler". No dice qué se alquila ni dónde.
+    Bloques afectados: B, C, D
+
+#36. Titulo: Vende tu casa rápido
+    Precio: 1 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/vende-tu-casa-rapido-57282965
+    Problema: Título genérico. Precio de 1 USD imposible.
+    Bloques afectados: A, B, C, D, E
+
+#37. Titulo: 🚨 Se Vende propiedad independiente
+    Precio: null | Moneda: (vacío) | Municipio: 10 de Octubre
+    Enlace: https://www.revolico.com/item/se-vende-propiedad-independiente-57323098
+    Problema: Sin precio. Título genérico.
+    Bloques afectados: A, B, C, D, E
+
+--- ANOMALÍA 8: DUPLICADOS EXACTOS ---
+#38. Titulo: Casa de 2 plantas y auto. El hogar para la familia por siempre 45 000 usd. Lawton
+    Precio: 45,000 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: .../casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322852
+    Problema: DUPLICADO del anuncio #39 (mismo título, mismo precio, diferente ID al final: ...52 vs ...51)
+    Bloques afectados: A (duplica el precio en el promedio)
+
+#39. Titulo: Casa de 2 plantas y auto. El hogar para la familia por siempre 45 000 usd. Lawton
+    Precio: 45,000 USD | Moneda: USD | Municipio: 10 de Octubre
+    Enlace: .../casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322851
+    Problema: DUPLICADO del anuncio #38.
+    Bloques afectados: A
+
+================================================================================
+SECCION 2: ANUNCIOS SIN PRECIO DECLARADO
+================================================================================
+
+Total: 10 anuncios sin precio
+
+Estos anuncios NO pueden responder los bloques A (Precios) ni E (Moneda):
+
+#1. Publicar anuncio (enlace /item/publish)
+#2. Venta de apart o cambio con un vuelto $ por algo más grande
+#3. Vendo casa grande totalmente independientes en reparto Santos Suárez
+#4. 🚨 Se Vende propiedad independiente
+#5. Permuto 1x2
+#6. Hoteles todo incluído - Varadero - Jibacoa - Cayo Santa María (Kinetica)
+#7. PISCINA DISPONIBLE PARA RENTA EN SAN MIGUEL.
+#8. J Casa de renta para parejas o grupos en Reparto Sevillano municipio Diez de Octubre. OCT-003
+#9. ☀️ ¡EL PLAN PERFECTO EN LAWTON! ☀️
+#10. ¡Piscina, Jacuzzi y Privacidad Total para tus Pasadías y Estancias!
+
+================================================================================
+SECCION 3: ANUNCIOS QUE LES FALTAN DATOS PARA LOS BLOQUES DE PREGUNTAS
+================================================================================
+
+Total de anuncios con datos faltantes para al menos un bloque: 47
+
+Nota: Un anuncio puede faltarle datos para múltiples bloques.
+
+--- BLOQUE B: Tipos de inmueble (falta tipo claro) ---
+Los siguientes títulos NO dejan claro si es casa, apartamento, local o terreno:
+
+#1. 70,000 USD (solo precio)
+#2. 22,500 USD (solo precio)
+#3. 25,000 USD (solo precio)
+#4. 💥6500💥 (solo precio)
+#5. 4,000 USD (solo precio)
+#6. 35 USD (solo precio) x2 anuncios
+#7. 150 USD (solo precio)
+#8. 450 USD (solo precio)
+#9. Publicar anuncio (no es inmueble)
+#10. SE VENDE APARTAMENTO (no especifica zona ni tipo exacto)
+#11. SE VENDE CASA (no especifica zona ni tipo exacto)
+#12. Casa en venta (no especifica zona)
+#13. Alquiler (no dice qué se alquila)
+#14. Vende tu casa rápido (no especifica zona)
+#15. 🚨 Se Vende propiedad independiente (no especifica zona)
+#16. Compro apto en playa, vedado y nuevo vedado. Tengo 8500 (es un "compro", no un "vendo")
+#17. Venta de casa en Lautow/ placa libre ("Lautow" probablemente error de "Lawton")
+#18. Casa bastante grande (no especifica zona ni cuartos)
+#19. Gran vivienda en venta en 10 de octubre (no especifica zona ni tipo)
+#20. Permuto 1x2 (no especifica tipo ni zona)
+
+--- BLOQUE C: Características físicas (falta cuartos, garaje, planta baja, m2) ---
+La mayoría de anuncios NO mencionan estas características en el título. Solo los siguientes SÍ las mencionan:
+
+ANUNCIOS CON DATOS DE CARACTERÍSTICAS (pueden responder bloque C):
+- Casa en la Víbora en bajos, 3 hab con garaje. (3 cuartos, garaje)
+- Casa independiente en Santo Suárez con garaje (garaje)
+- Vendo Casa independiente en Lawton...garaje,patio (garaje, patio)
+- Apto en bajo en Santos Suárez cerca de Santa Catalina (planta baja)
+- 🏡 SE VENDE O SE PERMUTA APARTAMENTO EN PLANTA BAJA, SEVILLANO (planta baja)
+- Casa en Sevillano Diez de Octubre 43m² (43 m2)
+- Se vende apartamento capitalista en la Víbora 92m2 (92 m2)
+- Apartamento en el Mónaco con todo incluido garaje 3 cuartos y 3 baños (3 cuartos, garaje, 3 baños)
+- Vendo apto. de 3/4 en la Víbora (3 o 4 cuartos)
+- Venta de Casa Independiente 3 habitaciones (Santo Suárez) (3 cuartos)
+- Casa en interior, 5 cuartos, 4 baños + piscina (5 cuartos, 4 baños, piscina)
+- Casa en la Víbora en bajos, 3 hab con garaje (3 cuartos, garaje)
+- Casa biplanta en 10 de octubre (2 niveles)
+- Casa de 2 plantas y auto... Lawton (2 plantas)
+- SE VENDE CASA EN LUYANO..GANGA (zona Luyano)
+
+TODOS LOS DEMÁS ANUNCIOS (aprox. 70) NO TIENEN datos de características físicas en el título.
+Esto hace imposible responder preguntas 13, 14, 15, 16, 17, 18 del bloque C sin visitar cada ficha individualmente.
+
+--- BLOQUE D: Ubicación (falta barrio/zona específica) ---
+Los siguientes anuncios NO especifican barrio dentro de 10 de Octubre, solo dicen "10 de Octubre" genérico:
+
+#1. SE VENDE APARTAMENTO
+#2. SE VENDE CASA
+#3. Casa en venta
+#4. Casa bastante grande
+#5. Gran vivienda en venta en 10 de octubre
+#6. Vendo casa grande totalmente independientes en reparto Santos Suárez (sí especifica Santos Suárez)
+#7. Publicar anuncio (no es inmueble)
+#8. Compro apto en playa, vedado y nuevo vedado (municipios incorrectos)
+
+ANUNCIOS QUE SÍ ESPECIFICAN ZONA (pueden responder bloque D parcialmente):
+Santos Suárez, La Víbora, Lawton, Luyano, El Sevillano, Mónaco, Santa Catalina, Reparto Sevillano, Asunción, Lawton, etc.
+
+--- BLOQUE E: Moneda (falta moneda declarada) ---
+Anuncios SIN moneda declarada (precio null o moneda vacía):
+#1. Publicar anuncio
+#2. Venta de apart o cambio con un vuelto $ por algo más grande
+#3. Vendo casa grande totalmente independientes en reparto Santos Suárez
+#4. 🚨 Se Vende propiedad independiente
+#5. Permuto 1x2
+#6. Hoteles todo incluído - Varadero - Jibacoa - Cayo Santa María
+#7. PISCINA DISPONIBLE PARA RENTA EN SAN MIGUEL.
+#8. J Casa de renta para parejas o grupos en Reparto Sevillano
+#9. ☀️ ¡EL PLAN PERFECTO EN LAWTON! ☀️
+#10. ¡Piscina, Jacuzzi y Privacidad Total para tus Pasadías y Estancias!
+
+================================================================================
+SECCION 4: RESUMEN EJECUTIVO PARA LIMPIEZA
+================================================================================
+
+ACCION RECOMENDADA: ELIMINAR (13 anuncios)
+Estos anuncios NO son inmuebles válidos de 10 de Octubre y deben borrarse del dataset:
+
+1. Publicar anuncio (botón del sitio web)
+2. Puertas blindadas Polimetalicas (no es inmueble)
+3. Puerta para exterior e interior (no es inmueble)
+4. Hoteles todo incluído - Varadero - Jibacoa - Cayo Santa María (otro lugar, no inmueble)
+5. ¡Piscina, Jacuzzi y Privacidad Total para tus Pasadías y Estancias! (no es venta/alquiler de inmueble)
+6. PISCINA DISPONIBLE PARA RENTA EN SAN MIGUEL. (otro municipio, San Miguel)
+7. Vendo casa independiente en Nuevo Vedado (otro municipio: Plaza de la Revolución)
+8. Biplanta independiente en el Cerro (otro municipio: Cerro)
+9. Compro apto en playa, vedado y nuevo vedado (es un "compro", municipios incorrectos)
+10. Venta de casa en Playa/paya (municipio incorrecto: Playa)
+11. Se vende casa independiente en Santo Suárez - Precio: 1 USD (imposible)
+12. Vende tu casa rápido - Precio: 1 USD (imposible)
+13. Vendo mi casa por el Semáforo de Acosta y Porvenir - Precio: 1 USD (imposible, contradice título que dice 38mil)
+
+ACCION RECOMENDADA: REVISAR MANUALMENTE (14 anuncios)
+Estos anuncios tienen precios o datos sospechosos que requieren verificar en el enlace:
+
+14. Permuto y recojo buelto a mi favor - Precio: 11,223,778 USD (imposible)
+15. Permuto casa en 10 de octubre - Precio: 11,122,222 USD (imposible)
+16. Permuto y recojo buelto a mi favor - Precio: 1,111,111,111 USD (imposible)
+17. Permuto 2 apartamento y recojo buelto a mi favor - Precio: 1,111,111,111 USD (imposible)
+18. Casa de Renta - Precio: 50 USD (imposible)
+19. Alquiler de apartamento con electricidad e internet 24H - Precio: 10 USD (imposible)
+20. 35 USD x2 anuncios (imposible para apartamento)
+21. 150 USD (sospechosamente bajo)
+22. 250 USD (sospechosamente bajo)
+23. 450 USD (sospechosamente bajo para casa)
+24. Venta de casa en Playa/paya - Precio: 25 USD (imposible + municipio incorrecto)
+
+ACCION RECOMENDADA: MARCAR COMO SIN PRECIO (10 anuncios)
+Estos anuncios no tienen precio declarado. No pueden usarse para análisis de precios:
+
+25. Venta de apart o cambio con un vuelto $ por algo más grande
+26. Vendo casa grande totalmente independientes en reparto Santos Suárez
+27. 🚨 Se Vende propiedad independiente
+28. Permuto 1x2
+29. J Casa de renta para parejas o grupos en Reparto Sevillano
+30. ☀️ ¡EL PLAN PERFECTO EN LAWTON! ☀️
+(además de los 4 ya listados en eliminar: Publicar anuncio, Hoteles Varadero, Piscina Jacuzzi, PISCINA SAN MIGUEL)
+
+ACCION RECOMENDADA: ELIMINAR DUPLICADO (1 anuncio)
+31. Casa de 2 plantas y auto... Lawton (ID ...58322851) es duplicado de ...58322852
+
+================================================================================
+SECCION 5: ANUNCIOS LIMPIOS (PUEDEN USARSE PARA ANALISIS)
+================================================================================
+
+Después de eliminar los 13 anuncios de la sección 4 (acción: eliminar),
+y marcar como sospechosos los 14 de la sección 4 (acción: revisar manualmente),
+y eliminar el duplicado (1 anuncio), quedarían aproximadamente:
+
+101 total - 13 eliminar - 1 duplicado = 87 anuncios para análisis
+
+De estos 87, los que tienen precio válido y municipio correcto son aproximadamente 70-75.
+De estos, solo unos 15-20 tienen información suficiente de características físicas (bloque C).
+Solo unos 30-40 tienen zona específica dentro de 10 de Octubre (bloque D).
+
+================================================================================
+RECOMENDACION FINAL PARA EL PROYECTO DE 3 DIAS
+================================================================================
+
+DIA 1 - Limpieza:
+- Abrir datos/brutos/revolico_crudos.json en Excel o editor de texto
+- Eliminar los 13 anuncios marcados como "ELIMINAR" en Sección 4
+- Eliminar el duplicado (#38 o #39)
+- Marcar con una columna "REVISAR" los 14 anuncios con precios sospechosos
+- Guardar como datos/limpios/anuncios_limpios.csv o .json
+
+DIA 2 - Analisis:
+- Responder las 30 preguntas usando solo los anuncios limpios
+- Para preguntas que no tengan suficientes datos, escribir: "Datos insuficientes (n=X)"
+- No intentar responder bloque C (características físicas) profundamente, ya que pocos anuncios tienen esos datos
+
+DIA 3 - Informe:
+- Escribir informe_final.md con las 30 respuestas
+- Incluir esta lista de anomalías como anexo de limitaciones
+- Subir a GitHub
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

@@ -1,0 +1,1915 @@
+================================================================================
+                          LISTA DE ANOMALÍAS POR ANUNCIO
+              REPOSITORIO: Mercado Digital Cubano - 10 de Octubre
+================================================================================
+
+Fecha de generacion: 31 de octubre de 2026
+Archivo fuente: datos/brutos/revolico_crudos.json
+Total de anuncios analizados: 101
+
+================================================================================
+LEYENDA DE BLOQUES DE PREGUNTAS (según informe_final.md)
+================================================================================
+
+  BLOQUE A: Precios del mercado (preguntas 1-6)
+    Necesita: precio declarado + moneda
+  BLOQUE B: Tipos de inmueble (preguntas 7-12)
+    Necesita: tipo de inmueble claro (casa, apartamento, local, terreno)
+  BLOQUE C: Caracteristicas fisicas (preguntas 13-18)
+    Necesita: cuartos, garaje, planta baja, m2, patio, azotea, cocina, etc.
+  BLOQUE D: Ubicacion dentro de 10 de Octubre (preguntas 19-24)
+    Necesita: barrio o zona especifica (Santos Suarez, La Vibora, Lawton, etc.)
+  BLOQUE E: Moneda y mercado informal (preguntas 25-29)
+    Necesita: moneda declarada (USD/CUP), palabras informales (oportunidad, ganga, permuta)
+  BLOQUE F: Recomendacion practica (pregunta 30)
+    Necesita: datos de todos los bloques anteriores
+
+================================================================================
+ANOMALIAS DETECTADAS POR TIPO
+================================================================================
+
+  TIPO 01: NO ES UN ANUNCIO INMOBILIARIO (boton publicar, puertas, hoteles, piscinas)
+  TIPO 02: MUNICIPIO INCORRECTO (no pertenece a 10 de Octubre)
+  TIPO 03: PRECIO IMPOSIBLEMENTE BAJO (< 100 USD)
+  TIPO 04: PRECIO IMPOSIBLEMENTE ALTO (> 1,000,000 USD)
+  TIPO 05: TITULO ES SOLO UN PRECIO (sin descripcion del inmueble)
+  TIPO 06: TITULO GENÉRICO (sin zona, ni tipo, ni caracteristicas)
+  TIPO 07: SIN PRECIO DECLARADO (precio null, moneda vacia)
+  TIPO 08: DUPLICADO EXACTO (mismo anuncio con ID diferente)
+  TIPO 09: ES UN "COMPRO" NO UN "VENDE" (el usuario busca comprar, no vender)
+  TIPO 10: TELEFONO CAMUFLAADO EN TITULO (53o22922 en lugar de 53022922)
+
+================================================================================
+================================================================================
+LISTA DETALLADA DE ANUNCIOS CON ANOMALIAS O DATOS FALTANTES
+================================================================================
+
+-------------------------------------------------------------------------------
+ANUNCIO #01
+-------------------------------------------------------------------------------
+TITULO: Publicar anuncio
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/publish
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 01] NO ES UN ANUNCIO INMOBILIARIO - Es el boton "Publicar anuncio" del sitio web
+  [TIPO 07] SIN PRECIO DECLARADO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Falta precio y moneda (no es anuncio real)
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+  BLOQUE E: Falta moneda
+  BLOQUE F: No aporta datos validos
+
+-------------------------------------------------------------------------------
+ANUNCIO #02
+-------------------------------------------------------------------------------
+TITULO: Venta apto 2/4 en Santo Suarez moderno municipio 10 octubre
+PRECIO: 25000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-apto-24-en-santo-suarez-municipio-10-octubre-57317211?p
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave detectada)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta metraje (m2), garaje, planta baja, patio, azotea
+  BLOQUE D: Zona especifica dentro de Santo Suarez no detallada
+
+-------------------------------------------------------------------------------
+ANUNCIO #03
+-------------------------------------------------------------------------------
+TITULO: Venta de apart o cambio con un vuelto $ por algo mas grande
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-apart-o-cambio-con-un-vuelto-por-algo-mas-grande-57719762?p
+PERMUTA: true
+
+ANOMALIAS:
+  [TIPO 07] SIN PRECIO DECLARADO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Falta precio y moneda
+  BLOQUE B: Falta tipo de inmueble claro (apart o cambio)
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+  BLOQUE E: Falta moneda declarada
+
+-------------------------------------------------------------------------------
+ANUNCIO #04
+-------------------------------------------------------------------------------
+TITULO: SE VENDE APARTAMENTO
+PRECIO: 12500
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-apartamento-58193578
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO - No especifica zona, ni cuartos, ni caracteristicas
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta barrio o zona especifica dentro de 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #05
+-------------------------------------------------------------------------------
+TITULO: SE VENDE CASA
+PRECIO: 60000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-casa-57692514
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO - No especifica zona, ni cuartos, ni caracteristicas
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta barrio o zona especifica dentro de 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #06
+-------------------------------------------------------------------------------
+TITULO: (al319)-25000-Casa independiente en Santos Suarez.(53022922).
+PRECIO: 25000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-independiente-en-santos-suarez53022922-mandy-44964739
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 10] TELEFONO EN TITULO - Contiene "53022922" (telefono expuesto en el titulo)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta metraje (m2), garaje, planta baja, patio, azotea
+  BLOQUE D: Zona especifica dentro de Santos Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #07
+-------------------------------------------------------------------------------
+TITULO: (al297)-Biplanta en Santos Suarez.(53o22922).
+PRECIO: 20000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/al297-biplanta-en-santos-suarez53o22922-44935344
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 10] TELEFONO CAMUFLAADO EN TITULO - Contiene "53o22922" (letra 'o' en lugar de cero '0')
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta metraje (m2), garaje, planta baja, patio, azotea
+  BLOQUE D: Zona especifica dentro de Santos Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #08
+-------------------------------------------------------------------------------
+TITULO: (al313)-70000-Casa independiente de 4 niveles en Santos Suarez.(53o22922).(www.ventacasasmandy.com)
+PRECIO: 70000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/al313-78000-casa-independiente-de-4-niveles-en-santos-suarez53o22922wwwventacasasmandycom-51131233
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 10] TELEFONO CAMUFLAADO EN TITULO - Contiene "53o22922"
+  [TIPO 06] TITULO GENERICO PARCIAL - Incluye sitio web externo en el titulo
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de Santos Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #09
+-------------------------------------------------------------------------------
+TITULO: 🔴Casa Grande para Almacén 240m²📦
+PRECIO: 80000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-grande-para-almacen-240m2-56416044
+PERMUTA: false
+
+ANOMALIAS:
+  (Titulo con emojis, almacén puede no ser vivienda residencial típica)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #10
+-------------------------------------------------------------------------------
+TITULO: Casa en venta
+PRECIO: 60000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-en-venta-56985062
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO - No especifica zona, ni cuartos, ni caracteristicas
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta barrio o zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #11
+-------------------------------------------------------------------------------
+TITULO: Compro apto en playa, vedado y nuevo vedado. Tengo 8500
+PRECIO: 8500
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/compro-apto-en-playa-vedado-y-nuevo-vedado-tengo-8500-57956298
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 09] ES UN "COMPRO", NO UN "VENDE" - El usuario busca comprar, no vender
+  [TIPO 02] MUNICIPIO INCORRECTO - El titulo menciona Playa, Vedado y Nuevo Vedado (otros municipios)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Precio es de compra, no de venta
+  BLOQUE D: Municipio incorrecto, no es 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #12
+-------------------------------------------------------------------------------
+TITULO: Venta o permuta de apartamento en el sevillano
+PRECIO: 13000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-o-permuta-de-apartamento-en-el-sevillano-57695761
+PERMUTA: true
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de El Sevillano
+
+-------------------------------------------------------------------------------
+ANUNCIO #13
+-------------------------------------------------------------------------------
+TITULO: Apartamento en la Vibora
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apartamento-en-la-vibora-54960186
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #14
+-------------------------------------------------------------------------------
+TITULO: 70,000 USD
+PRECIO: 70000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/reparto-residencial-asuncion-10-de-octubre-70000-usd-58279727
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO - No describe el inmueble
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica (aunque el enlace sugiere Asuncion)
+
+-------------------------------------------------------------------------------
+ANUNCIO #15
+-------------------------------------------------------------------------------
+TITULO: Se vende casa independiente preparada para renta con todo incluído y generador eléctrico en La Vibora
+PRECIO: 100000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-casa-independiente-preparada-para-renta-en-la-vibora-54519235
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #16
+-------------------------------------------------------------------------------
+TITULO: Apartamento en el Mónaco con todo incluído garaje 3 cuartos y 3 baños
+PRECIO: 48000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apartamento-en-el-monaco-con-todo-incluido-garaje-3-cuartos-y-3-banos-56461362
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE D: Zona especifica dentro de El Mónaco
+
+-------------------------------------------------------------------------------
+ANUNCIO #17
+-------------------------------------------------------------------------------
+TITULO: Casa independiente en Santo Suárez con garaje
+PRECIO: 64000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-independiente-en-santo-suarez-con-garaje-58176457
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de Santo Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #18
+-------------------------------------------------------------------------------
+TITULO: Vendo Casa independiente en Lawton 10 de Octubre,placa libre,garaje,patio y papeles en regla. Me ajusto en el precio.
+PRECIO: 18000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-casa-independiente-en-lawton-10-de-octubreplaca-libregarajepatio-y-papeles-en-regla-56370283
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, m2, azotea, cocina
+  BLOQUE D: Zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #19
+-------------------------------------------------------------------------------
+TITULO: Apto en bajo en Santos Suarez cerca de Santa Catalina
+PRECIO: 12000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apto-en-bajo-en-santos-suarez-cerca-de-santa-catalina-58042185
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de Santos Suarez / Santa Catalina
+
+-------------------------------------------------------------------------------
+ANUNCIO #20
+-------------------------------------------------------------------------------
+TITULO: Casa en Santos Suarez
+PRECIO: 29000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-en-santos-suarez-57431071
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO PARCIAL - No especifica zona dentro de Santos Suarez
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santos Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #21
+-------------------------------------------------------------------------------
+TITULO: Casa apto en un 1er piso cerca de Santa Catalina
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-apto-en-un-1er-piso-cerca-de-santa-catalina-56642821
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santos Suarez / Santa Catalina
+
+-------------------------------------------------------------------------------
+ANUNCIO #22
+-------------------------------------------------------------------------------
+TITULO: Casa Independiente en Santos Suarez cerca d Santa Catalina
+PRECIO: 50000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-independiente-en-santos-suarez-cerca-d-santa-catalina-55718174
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santos Suarez / Santa Catalina
+
+-------------------------------------------------------------------------------
+ANUNCIO #23
+-------------------------------------------------------------------------------
+TITULO: 22,500 USD
+PRECIO: 22500
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/ganga-2-en-1-por-el-precio-de-1-casa-en-luyano-2-en-1-25-000-usd-57683040
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO (con referencia a ganga)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica (enlace sugiere Luyano)
+
+-------------------------------------------------------------------------------
+ANUNCIO #24
+-------------------------------------------------------------------------------
+TITULO: Venta de casa en Lautow/ placa libre
+PRECIO: 22000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-casa-en-lautow-placa-libre-58319790
+PERMUTA: false
+
+ANOMALIAS:
+  (Posible error de escritura: "Lautow" probablemente es "Lawton")
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica (Lautow/Lawton)
+
+-------------------------------------------------------------------------------
+ANUNCIO #25
+-------------------------------------------------------------------------------
+TITULO: 25,000 USD
+PRECIO: 25000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/nueva-casa-puesta-en-venta-en-10-de-octubre-santo-suares-con-todo-adentro-55866599
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica (enlace sugiere Santo Suarez)
+
+-------------------------------------------------------------------------------
+ANUNCIO #26
+-------------------------------------------------------------------------------
+TITULO: Casa en la Víbora en bajos, 3 hab con garaje.
+PRECIO: 28000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-en-la-vibora-3-hab-con-garaje-55492641
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #27
+-------------------------------------------------------------------------------
+TITULO: Permuto y recojo buelto a mi favor
+PRECIO: 11223778
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58334346
+PERMUTA: true
+
+ANOMALIAS:
+  [TIPO 04] PRECIO IMPOSIBLEMENTE ALTO - 11,223,778 USD es imposible para el mercado cubano
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #28
+-------------------------------------------------------------------------------
+TITULO: Permuto casa en 10 de octubre
+PRECIO: 11122222
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/permuto-casa-en-10-de-octubre-58334287
+PERMUTA: true
+
+ANOMALIAS:
+  [TIPO 04] PRECIO IMPOSIBLEMENTE ALTO - 11,122,222 USD es imposible
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #29
+-------------------------------------------------------------------------------
+TITULO: Permuto y recojo buelto a mi favor
+PRECIO: 1111111111
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58333525
+PERMUTA: true
+
+ANOMALIAS:
+  [TIPO 04] PRECIO IMPOSIBLEMENTE ALTO - 1,111,111,111 USD es imposible (error de digitacion)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #30
+-------------------------------------------------------------------------------
+TITULO: Permuto 2 apartamento y recojo buelto a mi favor
+PRECIO: 1111111111
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/permuto-2-apartamento-y-recojo-buelto-a-mi-favor-58333411
+PERMUTA: true
+
+ANOMALIAS:
+  [TIPO 04] PRECIO IMPOSIBLEMENTE ALTO - 1,111,111,111 USD es imposible (error de digitacion)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #31
+-------------------------------------------------------------------------------
+TITULO: Apartamento de dos  cuartos
+PRECIO: 6000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apartamento-de-dos-cuartos-56030942
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 03] PRECIO SOSPECHOSAMENTE BAJO - 6000 USD es muy bajo para un apartamento
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #32
+-------------------------------------------------------------------------------
+TITULO: CASA_EN ALTOS_ LUYANÓ_ DIEZ DE OCTUBRE
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa_en-altos_-luyano_-diez-de-octubre-58095731
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de Luyano
+
+-------------------------------------------------------------------------------
+ANUNCIO #33
+-------------------------------------------------------------------------------
+TITULO: VENTA_APARTAMENTO_EN ALTOS_LUYANÓ_DIEZ DE OCTUBRE
+PRECIO: 25000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta_apartamento_en-altos_luyano_diez-de-octubre-58117455
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos exactos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de Luyano
+
+-------------------------------------------------------------------------------
+ANUNCIO #34
+-------------------------------------------------------------------------------
+TITULO: VENTA_CASA EN ALTO_MÓNACO_DIEZ DE OCTUBRE  ¡
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta_casa-en-alto_monaco_diez-de-octubre-58088194
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de El Mónaco
+
+-------------------------------------------------------------------------------
+ANUNCIO #35
+-------------------------------------------------------------------------------
+TITULO: VENTA_CASA EN LA ASUNCIÓN_LAWTON_DIEZ DE OCTUBRE
+PRECIO: 35000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta_casa-en-la-asuncion_lawton_diez-de-octubre-58095520
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Zona especifica dentro de La Asunción / Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #36
+-------------------------------------------------------------------------------
+TITULO: Alquiler de apartamento con electricidad e internet 24H (Ideal para agentes de ventas)
+PRECIO: 10
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/alquiler-de-apartamento-con-electricidad-e-internet-24h-ideal-para-agentes-de-ventas-57230152
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 10 USD/mes es imposible para un apartamento
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #37
+-------------------------------------------------------------------------------
+TITULO: Vendo casa grande totalmente independientes en reparto Santos Suarez
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-casa-grande-totalmente-independientes-en-reparto-santos-suarez-56360375
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 07] SIN PRECIO DECLARADO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Falta precio y moneda
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de Santos Suarez
+  BLOQUE E: Falta moneda declarada
+
+-------------------------------------------------------------------------------
+ANUNCIO #38
+-------------------------------------------------------------------------------
+TITULO: Vendo casa de dos plantas en santos Suarez
+PRECIO: 18000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-casa-de-dos-plantas-en-santos-suarez-56678413
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santos Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #39
+-------------------------------------------------------------------------------
+TITULO: Biplanta independiente en el Cerro
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/biplanta-independiente-en-el-cerro-57954437
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 02] MUNICIPIO INCORRECTO - El Cerro es otro municipio de La Habana, NO es 10 de Octubre
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE D: Municipio incorrecto, no pertenece a 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #40
+-------------------------------------------------------------------------------
+TITULO: Vendo apto. de 3/4 en la Víbora
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-apto-de-34-en-la-vibora-58330788
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #41
+-------------------------------------------------------------------------------
+TITULO: Alquiler
+PRECIO: 50000
+MONEDA: CUP
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/alquiler-58286882
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO - Solo dice "Alquiler"
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #42
+-------------------------------------------------------------------------------
+TITULO: Venta de Casa en Lawton
+PRECIO: 33000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-casa-en-lawton-58329459
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #43
+-------------------------------------------------------------------------------
+TITULO: Venta de casa en Playa
+PRECIO: 25
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-casa-en-paya-58329119
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 02] MUNICIPIO INCORRECTO - Playa no es 10 de Octubre
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 25 USD es imposible
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Precio invalido
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Municipio incorrecto
+
+-------------------------------------------------------------------------------
+ANUNCIO #44
+-------------------------------------------------------------------------------
+TITULO: Venta de casa en Lawton
+PRECIO: 30000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-casas-55845341
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #45
+-------------------------------------------------------------------------------
+TITULO: Se vende casa independiente en Santo Suárez
+PRECIO: 1
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-casa-independiente-en-santo-suarez-57689093
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 1 USD es imposible para una casa
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santo Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #46
+-------------------------------------------------------------------------------
+TITULO: 🚨 Se Vende propiedad independiente
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-propiedad-independiente-57323098
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 07] SIN PRECIO DECLARADO
+  [TIPO 06] TITULO GENERICO - No especifica zona ni tipo exacto
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Falta precio y moneda
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta barrio o zona especifica
+  BLOQUE E: Falta moneda declarada
+
+-------------------------------------------------------------------------------
+ANUNCIO #47
+-------------------------------------------------------------------------------
+TITULO: Se Vende Casa en santos Suárez
+PRECIO: 17000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-casa-en-santos-suarez-57961246
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santos Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #48
+-------------------------------------------------------------------------------
+TITULO: Vende tu casa rápido
+PRECIO: 1
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vende-tu-casa-rapido-57282965
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 1 USD es imposible
+  [TIPO 06] TITULO GENERICO - No especifica zona ni caracteristicas
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Precio invalido
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #49
+-------------------------------------------------------------------------------
+TITULO: ✨ GRAN OPORTUNIDAD DE INVERSIÓN Y VIVIENDA – 10 DE OCTUBRE 🏡
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/gran-oportunidad-de-inversion-y-vivienda-10-de-octubre-58327646
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #50
+-------------------------------------------------------------------------------
+TITULO: Permuto 1x2
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/permuto-1x2-57895191
+PERMUTA: true
+
+ANOMALIAS:
+  [TIPO 07] SIN PRECIO DECLARADO
+  [TIPO 06] TITULO GENERICO - Solo dice "Permuto 1x2"
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Falta precio y moneda
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+  BLOQUE E: Falta moneda declarada
+
+-------------------------------------------------------------------------------
+ANUNCIO #51
+-------------------------------------------------------------------------------
+TITULO: ✨ VENTA DE CASA – REPARTO RESIDENCIAL ASUNCIÓN, 10 DE OCTUBRE 🏡
+PRECIO: 70000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-casa-reparto-residencial-asuncion-10-de-octubre-58326838
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Asunción
+
+-------------------------------------------------------------------------------
+ANUNCIO #52
+-------------------------------------------------------------------------------
+TITULO: ✨ OPORTUNIDAD ÚNICA: HOGAR + NEGOCIO EN UN SOLO INMUEBLE 🏠
+PRECIO: 75000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/oportunidad-unica-hogar-negocio-en-un-solo-inmueble-58326298
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro (hogar + negocio es mixto)
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #53
+-------------------------------------------------------------------------------
+TITULO: 250 USD
+PRECIO: 250
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/habitacion-independiente-con-cocina-y-patio-en-la-vibora-ref-1394-51079049
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO
+  [TIPO 03] PRECIO SOSPECHOSAMENTE BAJO - 250 USD es muy bajo
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, azotea
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #54
+-------------------------------------------------------------------------------
+TITULO: Vendo casa independiente en Nuevo Vedado
+PRECIO: 270000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-casa-independiente-en-nuevo-vedado-56754991
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 02] MUNICIPIO INCORRECTO - Nuevo Vedado pertenece a Plaza de la Revolución, NO a 10 de Octubre
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE D: Municipio incorrecto, distorsiona promedios de 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #55
+-------------------------------------------------------------------------------
+TITULO: Venta de casa interior
+PRECIO: 9000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-casa-interior-57847360
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO - "Casa interior" no especifica zona ni detalles
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #56
+-------------------------------------------------------------------------------
+TITULO: 🏡 SE VENDE APARTAMENTO CAPITALISTA – LA VÍBORA (42)
+PRECIO: 21000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-apartamento-capitalista-la-vibora-42-57579769
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos exactos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #57
+-------------------------------------------------------------------------------
+TITULO: Hoteles todo incluído - Varadero - Jibacoa - Cayo Santa María (Kinetica)
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/ofertas-de-verano-varadero-la-habana-cayo-santa-maria-kinetica-55738219
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 01] NO ES UN ANUNCIO INMOBILIARIO - Es publicidad de hoteles en Varadero/Jibacoa/Cayo Santa Maria
+  [TIPO 02] MUNICIPIO INCORRECTO - No es 10 de Octubre
+  [TIPO 07] SIN PRECIO DECLARADO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: No es anuncio de vivienda en 10 de Octubre
+  BLOQUE B: No aplica
+  BLOQUE C: No aplica
+  BLOQUE D: No aplica (otro lugar)
+  BLOQUE E: Falta moneda
+
+-------------------------------------------------------------------------------
+ANUNCIO #58
+-------------------------------------------------------------------------------
+TITULO: Oportunidad de apartamento en Diez de Octubre
+PRECIO: 23000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/oportunidad-de-apartamento-en-diez-de-octubre-56202133
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro (apartamento es claro)
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #59
+-------------------------------------------------------------------------------
+TITULO: Oportunidad de inmueble en Lawton, Diez de Octubre
+PRECIO: 18000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/oportunidad-de-inmueble-en-lawton-diez-de-octubre-57455124
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #60
+-------------------------------------------------------------------------------
+TITULO: Se vende apartamento capitalista en la Víbora 92m2 cerca del Palacio de los matrimonios y matias Rodríguez
+PRECIO: 25000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-apartamento-capitalista-en-la-vibora-92m2-cerca-del-palacio-de-los-matrimonios-y-matias-rodriguez-58325911
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #61
+-------------------------------------------------------------------------------
+TITULO: Oportunidad de vivienda en el Sevillano-10 de octubre
+PRECIO: 23000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/oportunidad-de-vivienda-en-el-sevillano-10-de-octubre-55201555
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de El Sevillano
+
+-------------------------------------------------------------------------------
+ANUNCIO #62
+-------------------------------------------------------------------------------
+TITULO: Oportunidad de inmueble en Reparto Lawton,Diez de Octubre
+PRECIO: 27000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/oportunidad-de-inmueble-en-reparto-lawtondiez-de-octubre-57455071
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de Reparto Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #63
+-------------------------------------------------------------------------------
+TITULO: PISCINA DISPONIBLE PARA RENTA EN SAN MIGUEL.
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/piscina-disponible-para-renta-en-san-miguel-57832714
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 01] NO ES UN ANUNCIO INMOBILIARIO - Es alquiler de piscina por horas/dias
+  [TIPO 02] MUNICIPIO INCORRECTO - San Miguel no es 10 de Octubre
+  [TIPO 07] SIN PRECIO DECLARADO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: No es venta/alquiler de inmueble
+  BLOQUE B: No aplica
+  BLOQUE C: No aplica
+  BLOQUE D: Municipio incorrecto
+  BLOQUE E: Falta moneda
+
+-------------------------------------------------------------------------------
+ANUNCIO #64
+-------------------------------------------------------------------------------
+TITULO: Vendo casa en Lawton
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-casa-en-lawton-58132964
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #65
+-------------------------------------------------------------------------------
+TITULO: Se vende casa en Santo Suarez
+PRECIO: 35000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-casa-en-santo-suarez-57427179
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santo Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #66
+-------------------------------------------------------------------------------
+TITULO: Vendo apartamento capitalista garaje ultimo piso con balcon semi interior en la Víbora cerca del Tribunal provincial
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-apartamento-capitalista-garaje-ultimo-piso-con-balcon-semi-interior-en-la-vibora-cerca-del-tribunal-provincial-58325597
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #67
+-------------------------------------------------------------------------------
+TITULO: 🏡 SE VENDE O SE PERMUTA APARTAMENTO EN PLANTA BAJA, SEVILLANO, 10 DE OCTUBRE.
+PRECIO: 12000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-o-se-permuta-apartamento-en-planta-baja-sevillano-10-de-octubre-55911834
+PERMUTA: true
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de El Sevillano
+
+-------------------------------------------------------------------------------
+ANUNCIO #68
+-------------------------------------------------------------------------------
+TITULO: 10 de Octubre y Vía Blanca:Apto de 2/4 en 3erPiso,Ventanales a la Calle,Azotea Propia,y Una Casita De Madera Independien
+PRECIO: 7000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/10-de-octubre-y-via-blancaapto-de-24-en-3erpisoventanales-a-la-calleazotea-propiay-una-casita-de-madera-independien-57857150
+PERMUTA: false
+
+ANOMALIAS:
+  (Titulo muy largo y sin espacios adecuados)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, m2, cocina
+  BLOQUE D: Zona especifica (Via Blanca)
+
+-------------------------------------------------------------------------------
+ANUNCIO #69
+-------------------------------------------------------------------------------
+TITULO: 💥6500💥
+PRECIO: 6500
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/6500-58324814
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO CON EMOJIS
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #70
+-------------------------------------------------------------------------------
+TITULO: 4,000 USD
+PRECIO: 4000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/4000-usd-con-cosas-dentro-58324660
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #71
+-------------------------------------------------------------------------------
+TITULO: Casa bastante grande
+PRECIO: 25000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-bastante-grande-57324516
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO - "Bastante grande" no es informacion util
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #72
+-------------------------------------------------------------------------------
+TITULO: 35 USD
+PRECIO: 35
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apartamento-espacioso-de-1-habitacion-en-la-vibora-ref-1393-50373980
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 35 USD es imposible para un apartamento
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #73
+-------------------------------------------------------------------------------
+TITULO: 35 USD
+PRECIO: 35
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apartamento-independiente-en-santos-suarez-de-2-cuartos-pasadias-a-varadero-y-vinales-ref-1303-49744411
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 35 USD es imposible
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #74
+-------------------------------------------------------------------------------
+TITULO: Casa independiente en el sevillano
+PRECIO: 55000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-independiente-en-el-sevillano-57760771
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de El Sevillano
+
+-------------------------------------------------------------------------------
+ANUNCIO #75
+-------------------------------------------------------------------------------
+TITULO: Casa independiente con respaldo energetico en la vibora
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-independiente-con-respaldo-energetico-en-la-vibora-57509349
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #76
+-------------------------------------------------------------------------------
+TITULO: Apartamento amplio en 10 de octubre la víbora
+PRECIO: 26000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apartamento-amplio-en-10-de-octubre-la-vibora-58323680
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #77
+-------------------------------------------------------------------------------
+TITULO: Apartamento en Sevillano
+PRECIO: 9000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apartamento-en-sevillano-57531862
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de El Sevillano
+
+-------------------------------------------------------------------------------
+ANUNCIO #78
+-------------------------------------------------------------------------------
+TITULO: Casa en Sevillano Diez de Octubre 43m²
+PRECIO: 12000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-en-sevillano-diez-de-octubre-43m2-55602820
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de El Sevillano
+
+-------------------------------------------------------------------------------
+ANUNCIO #79
+-------------------------------------------------------------------------------
+TITULO: ✨ CASA EN ALTO EN LUYANO – OPORTUNIDAD 🏡🔑
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-en-alto-en-luyano-oportunidad-58323247
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Luyano
+
+-------------------------------------------------------------------------------
+ANUNCIO #80
+-------------------------------------------------------------------------------
+TITULO: ✨ CASA EN ALTO EN EL MÓNACO – DIEZ DE OCTUBRE 🏠
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-en-alto-en-el-monaco-diez-de-octubre-58323094
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de El Mónaco
+
+-------------------------------------------------------------------------------
+ANUNCIO #81
+-------------------------------------------------------------------------------
+TITULO: 🏠 *OPORTUNIDAD ÚNICA: HOGAR + NEGOCIO EN UN SOLO INMUEBLE | CALZADA 10 DE OCTUBRE*
+PRECIO: 85000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/oportunidad-unica-hogar-negocio-en-un-solo-inmueble-calzada-10-de-octubre-57758389
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro (hogar + negocio es mixto)
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de Calzada / 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #82
+-------------------------------------------------------------------------------
+TITULO: ¡SE VENDE CASA EN ALTO  EN MÓNACO! #154
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-casa-en-alto-en-monaco-154-57941793
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de El Mónaco
+
+-------------------------------------------------------------------------------
+ANUNCIO #83
+-------------------------------------------------------------------------------
+TITULO: Casa en alto en Luyano #155
+PRECIO: 15000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-en-alto-en-luyano-155-57941736
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Luyano
+
+-------------------------------------------------------------------------------
+ANUNCIO #84
+-------------------------------------------------------------------------------
+TITULO: Apto micro en la vibora
+PRECIO: 12000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apto-micro-en-la-vibora-57925343
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de La Vibora
+
+-------------------------------------------------------------------------------
+ANUNCIO #85
+-------------------------------------------------------------------------------
+TITULO: Casa de 2 plantas y auto. El hogar para la  familia por siempre 45 000 usd. Lawton
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322852
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 08] DUPLICADO EXACTO - Mismo anuncio que el #85 (ID ...58322852 vs ...58322851)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #85
+-------------------------------------------------------------------------------
+TITULO: Casa de 2 plantas y auto. El hogar para la  familia por siempre 45 000 usd. Lawton
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322851
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 08] DUPLICADO EXACTO - Mismo anuncio que el #84 (ID ...58322851 vs ...58322852)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #86
+-------------------------------------------------------------------------------
+TITULO: Casa biplanta en 10 de octubre
+PRECIO: 75000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-biplanta-en-10-de-octubre-56110832
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de 10 de Octubre
+
+-------------------------------------------------------------------------------
+ANUNCIO #87
+-------------------------------------------------------------------------------
+TITULO: SE VENDE CASA EN LUYANO..GANGA!!!🛑
+PRECIO: 11000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/se-vende-casa-en-luyanoganga-56917688
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Luyano
+
+-------------------------------------------------------------------------------
+ANUNCIO #88
+-------------------------------------------------------------------------------
+TITULO: J Casa de renta para parejas o grupos en Reparto Sevillano municipio Diez de Octubre. OCT-003
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/j-casa-de-renta-para-parejas-o-grupos-en-reparto-sevillano-municipio-diez-de-octubre-oct-003-58276593
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 07] SIN PRECIO DECLARADO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Falta precio y moneda
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE E: Falta moneda declarada
+
+-------------------------------------------------------------------------------
+ANUNCIO #89
+-------------------------------------------------------------------------------
+TITULO: apto en alto en lawton
+PRECIO: 25000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/apto-en-alto-en-lawton-57022144
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Lawton
+
+-------------------------------------------------------------------------------
+ANUNCIO #90
+-------------------------------------------------------------------------------
+TITULO: 150 USD
+PRECIO: 150
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/150-usd-apartamento-de-14-en-santos-suarez-58160551
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO
+  [TIPO 03] PRECIO SOSPECHOSAMENTE BAJO - 150 USD es muy bajo para un apartamento
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #91
+-------------------------------------------------------------------------------
+TITULO: Puertas blindadas Polimetalicas
+PRECIO: 410
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/puertas-blindadas-polimetalicas-53869917
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 01] NO ES UN ANUNCIO INMOBILIARIO - Es venta de puertas, no de vivienda
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: No es anuncio inmobiliario
+  BLOQUE B: No aplica
+  BLOQUE C: No aplica
+  BLOQUE D: No aplica
+  BLOQUE E: No aplica
+
+-------------------------------------------------------------------------------
+ANUNCIO #92
+-------------------------------------------------------------------------------
+TITULO: Casa en interior, 5 cuartos, 4 baños + piscina, 2 entradas independientes. Cerca de Santa Catalina y 10 de Octubre
+PRECIO: 35000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-con-5-cuartos-4-banos-piscina-2-entradas-independientes-cerca-de-santa-catalina-y-10-de-octubre-54193773
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, azotea
+  BLOQUE D: Falta zona especifica (Santa Catalina / 10 de Octubre)
+
+-------------------------------------------------------------------------------
+ANUNCIO #93
+-------------------------------------------------------------------------------
+TITULO: Puerta para exterior e interior
+PRECIO: 250
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/puerta-para-exterior-e-interior-58321879
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 01] NO ES UN ANUNCIO INMOBILIARIO - Es venta de una puerta, no de vivienda
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: No es anuncio inmobiliario
+  BLOQUE B: No aplica
+  BLOQUE C: No aplica
+  BLOQUE D: No aplica
+  BLOQUE E: No aplica
+
+-------------------------------------------------------------------------------
+ANUNCIO #94
+-------------------------------------------------------------------------------
+TITULO: ☀️ ¡EL PLAN PERFECTO EN LAWTON! ☀️
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/el-plan-perfecto-en-lawton-56219131
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 07] SIN PRECIO DECLARADO
+  [TIPO 06] TITULO GENERICO - "El plan perfecto" no describe el inmueble
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Falta precio y moneda
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de Lawton
+  BLOQUE E: Falta moneda declarada
+
+-------------------------------------------------------------------------------
+ANUNCIO #95
+-------------------------------------------------------------------------------
+TITULO: ¡Piscina, Jacuzzi y Privacidad Total para tus Pasadías y Estancias! 🏊♂️🌴
+PRECIO: null
+MONEDA: (vacio)
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/piscina-jacuzzi-y-privacidad-total-para-tus-pasadias-y-estancias-58180723
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 01] NO ES UN ANUNCIO INMOBILIARIO - Es alquiler de piscina/jacuzzi por horas o dias
+  [TIPO 07] SIN PRECIO DECLARADO
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: No es venta/alquiler de inmueble
+  BLOQUE B: No aplica
+  BLOQUE C: No aplica
+  BLOQUE D: Falta zona especifica
+  BLOQUE E: Falta moneda declarada
+
+-------------------------------------------------------------------------------
+ANUNCIO #96
+-------------------------------------------------------------------------------
+TITULO: Vendo mi casa por el Semáforo de Acosta y Porvenir descripción abajo ⬇️ 38mil ajustable con cosas adentro
+PRECIO: 1
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/vendo-mi-casa-por-el-semaforo-de-acosta-y-porvenir-descripcion-abajo-38mil-ajustable-con-cosas-adentro-58321529
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 1 USD (el titulo menciona 38mil, hay inconsistencia)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta cuartos, garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica (Semáforo de Acosta y Porvenir)
+
+-------------------------------------------------------------------------------
+ANUNCIO #97
+-------------------------------------------------------------------------------
+TITULO: Venta de Casa Independiente 3 habitaciones(Santo Suárez)🏠
+PRECIO: 16000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/venta-de-casa-independiente-3-habitacionessanto-suarez-58279874
+PERMUTA: false
+
+ANOMALIAS:
+  (Ninguna anomalia grave)
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE C: Falta garaje, planta baja, m2, patio, azotea, cocina
+  BLOQUE D: Falta zona especifica dentro de Santo Suarez
+
+-------------------------------------------------------------------------------
+ANUNCIO #98
+-------------------------------------------------------------------------------
+TITULO: 450 USD
+PRECIO: 450
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/amplia-casa-de-2-habitaciones-en-santos-suarez-10-de-octubre-57482712
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 05] TITULO ES SOLO UN PRECIO
+  [TIPO 03] PRECIO SOSPECHOSAMENTE BAJO - 450 USD es muy bajo para una casa
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #99
+-------------------------------------------------------------------------------
+TITULO: Casa de Renta
+PRECIO: 50
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/casa-de-renta-57619950
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 03] PRECIO IMPOSIBLEMENTE BAJO - 50 USD es imposible para una casa en renta
+  [TIPO 06] TITULO GENERICO - Solo dice "Casa de Renta"
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE A: Precio invalido
+  BLOQUE B: Falta tipo de inmueble claro
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica
+
+-------------------------------------------------------------------------------
+ANUNCIO #100
+-------------------------------------------------------------------------------
+TITULO: Gran vivienda en venta en 10 de octubre
+PRECIO: 45000
+MONEDA: USD
+MUNICIPIO: 10 de Octubre
+ENLACE: https://www.revolico.com/item/gran-vivienda-en-venta-en-10-de-octubre-58320925
+PERMUTA: false
+
+ANOMALIAS:
+  [TIPO 06] TITULO GENERICO - "Gran vivienda" no especifica tipo, zona ni caracteristicas
+
+DATOS FALTANTES POR BLOQUE:
+  BLOQUE B: Falta tipo de inmueble claro
+  BLOQUE C: Falta todas las caracteristicas fisicas
+  BLOQUE D: Falta zona especifica dentro de 10 de Octubre
+
+================================================================================
+================================================================================
+RESUMEN ESTADISTICO DE ANOMALIAS
+================================================================================
+
+Total de anuncios: 101
+Anuncios con al menos una anomalia: 76
+Anuncios sin anomalías detectadas: 25
+
+Por tipo de anomalia:
+  TIPO 01 (No es inmueble): 5 anuncios (#01, #57, #63, #91, #93, #95)
+  TIPO 02 (Municipio incorrecto): 5 anuncios (#11, #39, #43, #54, #63)
+  TIPO 03 (Precio muy bajo <100 USD): 11 anuncios (#02, #05, #06, #09, #11, #12, #36, #45, #48, #72, #73, #90, #96, #99)
+  TIPO 04 (Precio muy alto >1M USD): 4 anuncios (#27, #28, #29, #30)
+  TIPO 05 (Titulo solo precio): 9 anuncios (#14, #25, #31, #36, #38, #53, #69, #70, #90, #98)
+  TIPO 06 (Titulo generico): 13 anuncios (#04, #05, #10, #41, #47, #48, #71, #94, #95, #100 + otros)
+  TIPO 07 (Sin precio): 10 anuncios (#01, #03, #37, #46, #50, #57, #63, #88, #94, #95)
+  TIPO 08 (Duplicado): 2 anuncios (#84, #85)
+  TIPO 09 (Es un "compro"): 1 anuncio (#11)
+  TIPO 10 (Telefono camuflado): 3 anuncios (#06, #07, #08)
+
+================================================================================
+ANUNCIOS QUE DEBEN ELIMINARSE (accion prioritaria)
+================================================================================
+
+  #01  Publicar anuncio (boton del sitio web)
+  #11  Compro apto en playa, vedado y nuevo vedado (es un comprador, municipios incorrectos)
+  #39  Biplanta independiente en el Cerro (municipio incorrecto)
+  #43  Venta de casa en Playa/paya (municipio incorrecto, precio 25 USD)
+  #45  Se vende casa independiente en Santo Suarez (precio 1 USD imposible)
+  #48  Vende tu casa rapido (precio 1 USD imposible)
+  #54  Vendo casa independiente en Nuevo Vedado (municipio incorrecto)
+  #57  Hoteles todo incluido Varadero/Jibacoa/Cayo Santa Maria (no es 10 de Octubre)
+  #63  PISCINA DISPONIBLE PARA RENTA EN SAN MIGUEL (no es inmueble, otro municipio)
+  #91  Puertas blindadas Polimetalicas (no es inmueble)
+  #93  Puerta para exterior e interior (no es inmueble)
+  #95  Piscina, Jacuzzi y Privacidad Total (no es venta/alquiler de inmueble)
+  #85  Duplicado exacto de #84
+
+Total a eliminar: 13 anuncios
+
+================================================================================
+ANUNCIOS CON PRECIOS SOSPECHOSOS (revisar manualmente)
+================================================================================
+
+  #37  Vendo casa grande totalmente independientes... (sin precio)
+  #43  Venta de casa en Playa (25 USD)
+  #45  Se vende casa independiente en Santo Suarez (1 USD)
+  #48  Vende tu casa rapido (1 USD)
+  #46  Se Vende propiedad independiente (sin precio)
+  #50  Permuto 1x2 (sin precio)
+  #88  J Casa de renta... (sin precio)
+  #94  El Plan Perfecto en Lawton (sin precio)
+  #27  Permuto y recojo buelto (11,223,778 USD)
+  #28  Permuto casa en 10 de octubre (11,122,222 USD)
+  #29  Permuto y recojo buelto (1,111,111,111 USD)
+  #30  Permuto 2 apartamento (1,111,111,111 USD)
+  #31  Apartamento de dos cuartos (6000 USD - bajo)
+  #69  6500 USD (titulo solo precio)
+  #70  4,000 USD (titulo solo precio)
+  #72  35 USD (imposible)
+  #73  35 USD (imposible)
+  #90  150 USD (muy bajo)
+  #98  450 USD (muy bajo para casa)
+  #99  Casa de Renta (50 USD - imposible)
+
+================================================================================
+DATOS FALTANTES POR BLOQUE DE PREGUNTAS (resumen)
+================================================================================
+
+BLOQUE A (Precios): 10 anuncios sin precio, 11 con precios sospechosos
+BLOQUE B (Tipos): Aprox. 40 anuncios sin tipo claro en el titulo
+BLOQUE C (Caracteristicas): Aprox. 70 anuncios sin datos de caracteristicas fisicas
+BLOQUE D (Ubicacion): Aprox. 30 anuncios sin zona especifica dentro de 10 de Octubre
+BLOQUE E (Moneda): 10 anuncios sin moneda declarada
+
+================================================================================
+FIN DEL REPORTE
+================================================================================
