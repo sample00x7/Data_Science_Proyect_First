@@ -1,0 +1,1165 @@
+================================================================================
+REPORTE DE LIMPIEZA POR TIEMPO DE PUBLICACIÓN
+================================================================================
+
+Fecha del reporte: 31/10/2026
+Total de anuncios procesados: 373
+Anuncios con fecha extraída: 0
+Anuncios sin fecha: 572
+Errores HTTP: 4
+
+--------------------------------------------------------------------------------
+DISTRIBUCIÓN POR ANTIGÜEDAD
+--------------------------------------------------------------------------------
+
+Últimos 7 días (muy recientes):       0 anuncios
+Entre 8 y 30 días (recientes):        0 anuncios
+Entre 31 y 90 días (mediante):        0 anuncios
+Más de 90 días (antiguos):            0 anuncios
+Sin fecha detectada:                373 anuncios
+
+--------------------------------------------------------------------------------
+ANUNCIOS RECIENTES (ÚLTIMOS 7 DÍAS)
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ANUNCIOS SIN FECHA DETECTADA
+--------------------------------------------------------------------------------
+  [25000 USD] Venta apto 2/4 en Santo Suárez moderno municipio 10 octubre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta-apto-24-en-santo-suarez-municipio-10-octubre-57317211?p
+
+  [None ] Venta de apart o cambio con un vuelto $ por algo más grande
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta-de-apart-o-cambio-con-un-vuelto-por-algo-mas-grande-57719762?p
+
+  [12500 USD] SE VENDE APARTAMENTO
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-apartamento-58193578
+
+  [60000 USD] SE VENDE CASA
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-57692514
+
+  [25000 USD] (al319)-25000-Casa independiente en Santos Suárez.(53022922).
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-en-santos-suarez53022922-mandy-44964739
+
+  [20000 USD] (al297)-Biplanta en Santos Suárez.(53o22922).
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/al297-biplanta-en-santos-suarez53o22922-44935344
+
+  [70000 USD] (al313)-70000-Casa independiente de 4 niveles en Santos Suárez.(53o229
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/al313-78000-casa-independiente-de-4-niveles-en-santos-suarez53o22922wwwventacasasmandycom-51131233
+
+  [80000 USD] 🔴Casa Grande para Almacén 240m²📦
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-grande-para-almacen-240m2-56416044
+
+  [60000 USD] Casa en venta
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-en-venta-56985062
+
+  [8500 USD] Compro apto en playa, vedado y nuevo vedado. Tengo 8500
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/compro-apto-en-playa-vedado-y-nuevo-vedado-tengo-8500-57956298
+
+  [45000 USD] Apartamento en la Vibora
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-la-vibora-54960186
+
+  [70000 USD] 70,000 USD
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/reparto-residencial-asuncion-10-de-octubre-70000-usd-58279727
+
+  [100000 USD] Se vende casa independiente preparada para renta con todo incluído y g
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-independiente-preparada-para-renta-en-la-vibora-54519235
+
+  [48000 USD] Apartamento en el Mónaco con todo incluído garaje 3 cuartos y 3 baños
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-el-monaco-con-todo-incluido-garaje-3-cuartos-y-3-banos-56461362
+
+  [64000 USD] Casa independiente en Santo Suárez con garaje
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-en-santo-suarez-con-garaje-58176457
+
+  [18000 USD] Vendo Casa independiente en Lawton 10 de Octubre,placa libre,garaje,pa
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-casa-independiente-en-lawton-10-de-octubreplaca-libregarajepatio-y-papeles-en-regla-56370283
+
+  [12000 USD] Apto en bajo en Santos Suárez cerca de Santa Catalina
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apto-en-bajo-en-santos-suarez-cerca-de-santa-catalina-58042185
+
+  [29000 USD] Casa en Santos Suárez
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-en-santos-suarez-57431071
+
+  [45000 USD] Casa apto en un 1er piso cerca de Santa Catalina
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-apto-en-un-1er-piso-cerca-de-santa-catalina-56642821
+
+  [50000 USD] Casa Independiente en Santos Suárez cerca d Santa Catalina
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-en-santos-suarez-cerca-d-santa-catalina-55718174
+
+  [22000 USD] Venta de casa en Lautow/ placa libre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-en-lautow-placa-libre-58319790
+
+  [25000 USD] 25,000 USD
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/nueva-casa-puesta-en-venta-en-10-de-octubre-santo-suares-con-todo-adentro-55866599
+
+  [11223778 USD] Permuto y recojo buelto a mi favor
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58334346
+
+  [11122222 USD] Permuto casa en 10 de octubre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/permuto-casa-en-10-de-octubre-58334287
+
+  [1111111111 USD] Permuto y recojo buelto a mi favor
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/permuto-y-recojo-buelto-a-mi-favor-58333525
+
+  [1111111111 USD] Permuto 2 apartamento y recojo buelto a mi favor
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/permuto-2-apartamento-y-recojo-buelto-a-mi-favor-58333411
+
+  [6000 USD] Apartamento de dos  cuartos
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apartamento-de-dos-cuartos-56030942
+
+  [15000 USD] CASA_EN ALTOS_ LUYANÓ_ DIEZ DE OCTUBRE
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa_en-altos_-luyano_-diez-de-octubre-58095731
+
+  [25000 USD] VENTA_APARTAMENTO_EN ALTOS_LUYANÓ_DIEZ DE OCTUBRE
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta_apartamento_en-altos_luyano_diez-de-octubre-58117455
+
+  [15000 USD] VENTA_CASA EN ALTO_MÓNACO_DIEZ DE OCTUBRE  ¡
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta_casa-en-alto_monaco_diez-de-octubre-58088194
+
+  [10 USD] Alquiler de apartamento con electricidad e internet 24H (Ideal para ag
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/alquiler-de-apartamento-con-electricidad-e-internet-24h-ideal-para-agentes-de-ventas-57230152
+
+  [None ] Vendo casa grande totalmente independientes en reparto Santos Suárez
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-casa-grande-totalmente-independientes-en-reparto-santos-suarez-56360375
+
+  [18000 USD] Vendo casa de dos plantas en santos Suárez
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-casa-de-dos-plantas-en-santos-suarez-56678413
+
+  [45000 USD] Biplanta independiente en el Cerro
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/biplanta-independiente-en-el-cerro-57954437
+
+  [15000 USD] Vendo apto. de 3/4 en la Víbora
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-apto-de-34-en-la-vibora-58330788
+
+  [50000 CUP] Alquiler
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/alquiler-58286882
+
+  [33000 USD] Venta de Casa en Lawton
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-en-lawton-58329459
+
+  [30000 USD] Venta de casa en Lawton
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta-de-casas-55845341
+
+  [None ] 🚨 Se Vende propiedad independiente
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-propiedad-independiente-57323098
+
+  [17000 USD] Se Vende Casa en santos Suárez
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-santos-suarez-57961246
+
+  [1 USD] Vende tu casa rápido
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vende-tu-casa-rapido-57282965
+
+  [45000 USD] ✨ GRAN OPORTUNIDAD DE INVERSIÓN Y VIVIENDA – 10 DE OCTUBRE 🏡
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/gran-oportunidad-de-inversion-y-vivienda-10-de-octubre-58327646
+
+  [None ] Permuto 1x2
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/permuto-1x2-57895191
+
+  [70000 USD] ✨ VENTA DE CASA – REPARTO RESIDENCIAL ASUNCIÓN, 10 DE OCTUBRE 🏡
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-reparto-residencial-asuncion-10-de-octubre-58326838
+
+  [75000 USD] ✨ OPORTUNIDAD ÚNICA: HOGAR + NEGOCIO EN UN SOLO INMUEBLE 🏠
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/oportunidad-unica-hogar-negocio-en-un-solo-inmueble-58326298
+
+  [250 USD] 250 USD
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/habitacion-independiente-con-cocina-y-patio-en-la-vibora-ref-1394-51079049
+
+  [270000 USD] Vendo casa independiente en Nuevo Vedado
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-casa-independiente-en-nuevo-vedado-56754991
+
+  [9000 USD] Venta de casa interior
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-interior-57847360
+
+  [None ] Hoteles todo incluído - Varadero - Jibacoa - Cayo Santa María (Kinetic
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/ofertas-de-verano-varadero-la-habana-cayo-santa-maria-kinetica-55738219
+
+  [23000 USD] Oportunidad de apartamento en Diez de Octubre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/oportunidad-de-apartamento-en-diez-de-octubre-56202133
+
+  [18000 USD] Oportunidad de inmueble en Lawton, Diez de Octubre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/oportunidad-de-inmueble-en-lawton-diez-de-octubre-57455124
+
+  [25000 USD] Se vende apartamento capitalista en la Víbora 92m2 cerca del Palacio d
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-apartamento-capitalista-en-la-vibora-92m2-cerca-del-palacio-de-los-matrimonios-y-matias-rodriguez-58325911
+
+  [23000 USD] Oportunidad de vivienda en el Sevillano-10 de octubre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/oportunidad-de-vivienda-en-el-sevillano-10-de-octubre-55201555
+
+  [27000 USD] Oportunidad de inmueble en Reparto Lawton,Diez de Octubre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/oportunidad-de-inmueble-en-reparto-lawtondiez-de-octubre-57455071
+
+  [None ] PISCINA DISPONIBLE PARA RENTA EN SAN MIGUEL.
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/piscina-disponible-para-renta-en-san-miguel-57832714
+
+  [15000 USD] Vendo casa en Lawton
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-casa-en-lawton-58132964
+
+  [15000 USD] Vendo apartamento capitalista garaje último piso con balcón semi inter
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-apartamento-capitalista-garaje-ultimo-piso-con-balcon-semi-interior-en-la-vibora-cerca-del-tribunal-provincial-58325597
+
+  [12000 USD] 🏡 SE VENDE O SE PERMUTA APARTAMENTO EN PLANTA BAJA, SEVILLANO, 10 DE O
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-o-se-permuta-apartamento-en-planta-baja-sevillano-10-de-octubre-55911834
+
+  [7000 USD] 10 de Octubre y Vía Blanca:Apto de 2/4 en 3erPiso,Ventanales a la Call
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/10-de-octubre-y-via-blancaapto-de-24-en-3erpisoventanales-a-la-calleazotea-propiay-una-casita-de-madera-independien-57857150
+
+  [6500 USD] 💥6500💥
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/6500-58324814
+
+  [4000 USD] 4,000 USD
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/4000-usd-con-cosas-dentro-58324660
+
+  [25000 USD] Casa bastante grande
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-bastante-grande-57324516
+
+  [35 USD] 35 USD
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apartamento-espacioso-de-1-habitacion-en-la-vibora-ref-1393-50373980
+
+  [35 USD] 35 USD
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apartamento-independiente-en-santos-suarez-de-2-cuartos-pasadias-a-varadero-y-vinales-ref-1303-49744411
+
+  [55000 USD] Casa independiente en el sevillano
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-en-el-sevillano-57760771
+
+  [45000 USD] Casa independiente con respaldo energetico en la vibora
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-con-respaldo-energetico-en-la-vibora-57509349
+
+  [26000 USD] Apartamento amplio en 10 de octubre la víbora
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apartamento-amplio-en-10-de-octubre-la-vibora-58323680
+
+  [9000 USD] Apartamento en Sevillano
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-sevillano-57531862
+
+  [15000 USD] ¡SE VENDE CASA EN ALTO  EN MÓNACO! #154
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-alto-en-monaco-154-57941793
+
+  [45000 USD] Casa de 2 plantas y auto. El hogar para la  familia por siempre 45 000
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322852
+
+  [45000 USD] Casa de 2 plantas y auto. El hogar para la  familia por siempre 45 000
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-de-2-plantas-y-auto-el-hogar-para-la-familia-por-siempre-45-000-usd-lawton-58322851
+
+  [25000 USD] apto en alto en lawton
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/apto-en-alto-en-lawton-57022144
+
+  [150 USD] 150 USD
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/150-usd-apartamento-de-14-en-santos-suarez-58160551
+
+  [410 USD] Puertas blindadas Polimetalicas
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/puertas-blindadas-polimetalicas-53869917
+
+  [35000 USD] Casa en interior, 5 cuartos, 4 baños + piscina, 2 entradas independien
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-con-5-cuartos-4-banos-piscina-2-entradas-independientes-cerca-de-santa-catalina-y-10-de-octubre-54193773
+
+  [250 USD] Puerta para exterior e interior
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/puerta-para-exterior-e-interior-58321879
+
+  [None ] ☀️ ¡EL PLAN PERFECTO EN LAWTON! ☀️
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/el-plan-perfecto-en-lawton-56219131
+
+  [None ] ¡Piscina, Jacuzzi y Privacidad Total para tus Pasadías y Estancias! 🏊♂
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/piscina-jacuzzi-y-privacidad-total-para-tus-pasadias-y-estancias-58180723
+
+  [1 USD] Vendo mi casa por el Semáforo de Acosta y Porvenir descripción abajo ⬇
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/vendo-mi-casa-por-el-semaforo-de-acosta-y-porvenir-descripcion-abajo-38mil-ajustable-con-cosas-adentro-58321529
+
+  [50 USD] Casa de Renta
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-57619950
+
+  [45000 USD] Gran vivienda en venta en 10 de octubre
+      Municipio: 10 de Octubre | Enlace: https://www.revolico.com/item/gran-vivienda-en-venta-en-10-de-octubre-58320925
+
+  [150 USD] 150 USD CASA EN GUANABO SIBARIMAR para 10 personas,piscina,plantas y p
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-guanabo-sibarimar-para-10-personaspiscinaplantasgaraje-ampliobillar3-cuartos4-banosinternet-24hsplicet-54137772
+
+  [15000 USD] 15,000 USD Venta de Casa Independiente 3 habitaciones(Santo Suárez)🏠
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-independiente-3-habitacionessanto-suarez-58279874
+
+  [18000 USD] 18,000 USD Se vende apto en el Mónaco, 53250695, todo dentro, llegar y
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-apto-en-el-monaco-53250695-todo-dentro-llegar-y-vivir-57906377
+
+  [75000 USD] 75,000 USD Casa Independiente con piscina en Cojimar
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-con-piscina-en-cojimar-58270833
+
+  [350000 USD] 350,000 USD Exelente Casa cerca de 5ta Ave en Siboney
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/exelente-casa-cerca-de-5ta-ave-en-siboney-57458929
+
+  [100000 USD] 100,000 USD Casa Lista para vivir en Santo Suárez /Mónaco
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-lista-para-vivir-en-santo-suarez-monaco-57632277
+
+  [70000 USD] 70,000 USD Económica  Casa en bajos de Biplanta en Zona Residencial de
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/economica-casa-en-zona-residencial-de-atavey-57459566
+
+  [130000 USD] 130,000 USD Casa Independiente en Playa Cerca de 43 y 58
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-en-playa-cerca-de-43-y-58-56145432
+
+  [150000 USD] 150,000 USD Excelente Casa independiente en Playa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/excelente-casa-independiente-en-playa-56121272
+
+  [100000 USD] 100,000 USD Apartamento en Vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-vedado-57341851
+
+  [180000 USD] 180,000 USD Altos de Biplanta en venta en el Vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/altos-de-biplanta-en-venta-en-el-vedado-57342398
+
+  [1 USD] 1 USD Venta y Compra o Permuta de casa primera planta con acceso a apa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-y-compra-o-permuta-de-casa-primera-planta-con-acceso-a-apartamento-58495039
+
+  [None ] Renta Lineal en el Vedado 179
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-lineal-en-el-vedado-179-57508781
+
+  [None ] Pasadía en Boyeros
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/pasadia-en-boyeros-57077633
+
+  [None ] 🏠RENTA DE HABITACIÓN POR 24 HORAS PARA PAREJAS 👥
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-habitacion-por-24-horas-para-parejas-57104450
+
+  [None ] Pasadía en Boyeros, cerca del aeropuerto José Martí
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/pasadia-en-boyeros-cerca-del-aeropuerto-jose-marti-58099549
+
+  [None ] Piscina; Pasadía en Boyeros
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscina-pasadia-en-boyeros-57077395
+
+  [None ] Pasadía en Fontanar, Boyeros
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/pasadia-en-fontanar-boyeros-58098989
+
+  [None ] Casa Isel en Santa Fé, Playa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-isel-en-santa-fe-playa-58098581
+
+  [None ] Casa Angela en Boca Ciega
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-angela-en-boca-ciega-57676803
+
+  [None ] Villa César Palace en Boca Ciega
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/villa-cesar-palace-en-boca-ciega-57676658
+
+  [1 USD] 1 USD Renta lineal para extranjeros
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-lineal-para-extranjeros-57941820
+
+  [20000 USD] 20,000 USD Vendo apartamento capitalista en Lawton
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-apartamento-capitalista-en-lawton-58494853
+
+  [1000 USD] 1,000 USD PERMUTO Y DOY VUELTO X ENCIMA
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/permuto-y-doy-vuelto-x-encima-57164208
+
+  [5000 USD] 5,000 USD VENDO APARTAMENTO. LA LISA. SAN AGUSTÍN.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-apartamento-la-lisa-san-agustin-56381309
+
+  [None ] Se vende apartamento en Santo Suárez
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-apartamento-en-santo-suarez-58494730
+
+  [6000 USD] 6,000 USD En venta casa Ampliación de Sevillano, Habana
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/en-venta-casa-ampliacion-de-sevillano-habana-57966431
+
+  [None ] Renta de apartamentos en la Haban Vieja.En oferta.  No hay problemas e
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamentos-en-la-haban-vieja-53-58239474-unico-dueno-la-atencion-nos-hace-unicos-50092611
+
+  [None ] Renta de apartamentos en la habana Vieja. No hay problemas eléctricos.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamentos-en-la-habana-vieja-no-hay-problemas-electricos-51578088
+
+  [None ] Renta de apartamentos totalmente independientes.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamentos-totalmente-independientes-55279906
+
+  [20000 USD] 20,000 USD Casa en Buena vista, Playa (Rey)
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-buena-vista-playa-58011141
+
+  [1 CUP] 1 CUP Renta en el vedado en bajos, con todo dentro, tengo Licencia. Li
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-lineal-en-bajos-con-todas-las-comodidades-split-telefono-fijo-internet-agua-caliente-etces-en-el-vedado-47242336
+
+  [10000 USD] 10,000 USD Se vende casa en Mariano grande en precio de regalo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-mariano-grande-en-precio-de-regalo-56679549
+
+  [8500 USD] 8,500 USD Casa Grande en Artemisa de placa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-grande-en-artemisa-de-placa-57257916
+
+  [1 USD] 1 USD Casa de renta, alquiler de casa en la playa Varadero
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-alquiler-de-casa-en-la-playa-varadero-56553087
+
+  [55000 USD] 55,000 USD Dos casas en una por solo 55 mil USD. Ocasión !!!!!
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/dos-casas-en-una-por-solo-55-mil-usd-ocasion-47221935
+
+  [15000 USD] 15,000 USD Apartamento en Reparto Flores   ¡¡¡REBAJADO!!!  15 mil USD
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-reparto-flores-rebajado-15-mil-usd-47222045
+
+  [30000 USD] 30,000 USD Casa en venta
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-venta-57622171
+
+  [None ] Casa Piscina+Respaldo Eléctrico⚡️+3cuartos+Tarara+Piscina+Playa a 100m
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilervillapiscina3cuartostararapiscinaplaya-a-100m-ext-49873271
+
+  [None ] Piscina Climatizada+Respaldo Eléctrico⚡️+Jacuzzi+5cuartos+Miramar💥🌊
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilervillapiscina5cuartosmiramarpiscinajacuzzi-49613366
+
+  [10000 USD] 10,000 USD Venta de apartamento en Centro Habana
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-apartamento-en-centro-habana-58494370
+
+  [None ] Casa+Piscina 80m2+4baños+3cuartos+2cisternas!!Reparto Cubanacan!! SUPE
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casapiscina-80m24banos3cuartos2cisternasreparto-cubanacan-super-precio-ganga-54390636
+
+  [75000 USD] 75,000 USD Venta Apto Capitalista+3cuartos+2baños+terraza+patio de ser
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-apto-capitalista3cuartos2banosterrazapatio-de-servicio-57153457
+
+  [3000 USD] 3,000 USD Busco apartamento en buen estado (3000$)10 de octubre (lawto
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/busco-apartamento-en-buen-estado-300010-de-octubre-lawton-56803637
+
+  [None ] Piscina+Respaldo eléctrico⚡️+Playa+billar+Parque Infantil+5cuartos+Tar
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscinabillarparque-infantil5cuartostararapiscinaplaya-a-100m-56222437
+
+  [None ] [Villa]piscina + jacuzzi climatizado🔥+7cuartos+Miramar+[Puro Lujo]+ Mi
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilervilla-costapiscina7cuartosmiramarpuro-lujo53440539-32914320
+
+  [None ] Piscina + Playa a 100m + Vista al Mar 🔥 + 5cuartos Santa Fe ‼️
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscina-playa-a-100m-vista-al-mar-5cuartos-santa-fe-50648360
+
+  [None ] VENTA DE APARTAMENTO DEL VEDADO
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-apartamento-del-vedado-52140256
+
+  [None ] Apartamento + 2cuartos+Vedado+Privacidad Total+ Apartamento VedadoLujo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento2cuartosvedadoprivacidad-totallujo-38820042
+
+  [None ] Piscina + 5cuartos + Flores + piscina Reparto Flores Playa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/la-piscina-mas-grande-de-la-habana-4cuartos-siboney-puro-lujo-renta-50632639
+
+  [None ] Piscina + Vista al Mar 🔥 Respaldo eléctrico ⚡️+ 4 cuartos Santa Fe ‼️R
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscina-vista-al-mar-4-cuartos-santa-fe-renta-piscina-vista-al-mar-51277858
+
+  [None ] Venta Casa+Piscina, Propiedad de más de 1000 m2, Se deja todo dentro, 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-casapiscina-propiedad-de-mas-de-1000-m2-se-deja-todo-dentro-respaldo-electrico-reparto-siboney-57666512
+
+  [None ] Apartamento+4cuartos+Vista al Mar+Vedado+Privacidad Total+Cabinas de H
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento4cuartosvista-al-marvedadoprivacidad-totalcabinas-de-hidromasaje-apartamento-vedado-53135690
+
+  [None ] [Villa]+piscina+5cuartos+Miramar+Piscina+Jacuzzi🌊🔥
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/villapiscina5cuartosmiramarpiscinajacuzzi-50064723
+
+  [None ] Pasadias y Renta x noche+Respaldo eléctrico⚡️piscina+jacuzzi +Grill/Ho
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-x-noche-piscinajacuzzi-grillhornocorriente-24h-54325235
+
+  [None ] Venta Casa+piscina+jacuzzi+6cuartos+Superficie 600m2🔥
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casapiscinajacuzzi6cuartossuperficie-600m2-54442484
+
+  [None ] Apartamento de Lujo+2cuartos+Vedado+Privacidad Total+ Apartamento Veda
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-de-lujo2cuartosvedadoprivacidad-total-apartamento-vedado-44694567
+
+  [None ] Piscina+Respaldo eléctrico⚡️+Parque Infantil+4cuartos+Tarara+Piscina+P
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscinarespaldo-electricoparque-infantil4cuartostararapiscinaplaya-a-100m-57047259
+
+  [None ] Piscinas Climatizada + Respaldo Eléctrico⚡️[Pasadias y Rentas x noche]
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscina-pasadia-climatizada-y-renta-x-noche-53152111
+
+  [None ] Piscina Climatizada 🔥+ 4cuartos + Nuevo Vedado + piscina Reparto Nuevo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscina-climatizada-4cuartos-nuevo-vedado-piscina-reparto-nuevo-vedado-53136372
+
+  [None ] Piscina Climatizada+Jacuzzi(Totalmente Climatizados)+6cuartos+Miramar+
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/villa-piscina-con-jacuzzitotalmente-climatizados6cuartosmiramarpuro-lujomiramarjacuzzi-50648178
+
+  [None ] Casa Piscina + Playa Privada -Respaldo Eléctrico⚡️- Piscina+Playa Priv
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-piscina-y-playa-de-6cuartos-piscinaplaya-privada-sta-fe-55553994
+
+  [30000 USD] 30,000 USD Casa en cojimar
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-cojimar-57754372
+
+  [13 USD] 13 USD VENTA DE CASA EN CENTRO HABANA
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-en-centro-habana-58396084
+
+  [None ] 🔥Casa con Piscina+Respaldo Eléctrico⚡️+playa a 150m+billar+pinpon+futb
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/piscinaplaya-a-150mbillarpinponfutbolinplanta-alimentada-x-panel-solarcorriente-24h-boca-ciega-54325143
+
+  [40000 USD] 40,000 USD Apartamento independiente en calle Obispo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-independiente-en-calle-o-bispo-58494253
+
+  [135000 USD] 135,000 USD Amplia casa en los altos de un biplanta en miramar
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/amplia-casa-en-los-altos-de-un-biplanta-en-miramar-57864346
+
+  [65000 USD] 65,000 USD CASA DE 2 PLANTAS TODA AMUEBLADA.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-2-plantas-toda-amueblada-50729594
+
+  [25000 USD] 25,000 USD Vedado 27 y N Apto Puerta Calle Con Portal 3/4,Sala-Comedor
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vedado-27-y-n-apto-puerta-calle-con-portal-34sala-comedor2entradas-indpndtescon-algunas-cosas-dentrotlf-fijono-g-55924446
+
+  [175000 USD] 175,000 USD Vedado J y 21,a 2 Cuadras Del Coopelia y Cerca de Torre K,
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vedado-j-y-21a-2-cuadras-del-coopelia-y-cerca-de-torre-kcasa-independiente-285m-con-portalgarajerecibidorcomedor3-57279376
+
+  [6000 USD] 6,000 USD Esquina San Miguel y Oquendo,Apto 2do Piso Alto,Ptal Alto,2/
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/esquina-san-miguel-y-oquendoapto-2do-piso-altoptal-alto24en-barbacoa-q-hay-q-reparar2-balcones53052463-58230574
+
+  [10000 USD] 10,000 USD A Una Cuadra Exacta De Ayestaran y 20 De Mayo:Calle Masó y 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/11000-usdvacia-a-una-cuadra-exacta-de-ayestaran-y-20-de-mayoapto-en-la-calle-maso-y-20-de-mayopuerta-calle-new-56899858
+
+  [22000 USD] 22,000 USD Apartamento céntrico en 6to piso con elevador
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-centrico-en-6to-piso-con-elevador-57863488
+
+  [10000 USD] 10,000 USD San Rafael y Escobar,Apto Colonial,1er Piso,2 Balcones a 2 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/san-rafael-y-escobarapto-colonial1er-piso2-balcones-a-2-calles-diferentes-varios-ventanales24-originales-salasal-57302632
+
+  [20 USD] 20 USD Renta de Apartamento Capitalista En Aramburo y Jovellar,Cerca d
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamento-capitalista-en-aramburo-y-jovellarcerca-del-coopelitaradio-progresoparque-maceo1er-piso24c-57648312
+
+  [3000 USD] 3,000 USD 3000 USD_Oquendo y Neptuno"Centro Habana":Permuto Casa En 1e
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/3000-usd_oquendo-y-neptunocentro-habanapermuto-casa-en-1er-piso-67m24-1-d-pladul1erpisoazotea-libretecho-d-pla-55674045
+
+  [18 USD] 18 USD Renta de Apartamento Capitalista En Aramburo y Jovellar,Cerca d
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamento-capitalista-en-aramburo-y-jovellarcerca-del-coopelitaradio-progreso1er-piso24calentador220-57561141
+
+  [11000 USD] 11,000 USD Casa Colonial En Espada y Anima:Esquinas e/ Cine Pionero y 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/espada-y-animacerca-del-cine-pionero-y-del-callejon-de-hamela-2-cuadras-d-infantaapto-colonial-puerta-y-ventanales-a-54609932
+
+  [22000 USD] 22,000 USD Apartamento en playa listo para vivir
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-playa-listo-para-vivir-57988580
+
+  [25 USD] 25 USD Renta de apartamento independiente
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamento-independiente-51062125
+
+  [16000 USD] 16,000 USD APARTAMENTO EN 1ER PISO (ALTOS) – CENTRO HABANA 🏢
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-1er-piso-altos-centro-habana-58361149
+
+  [35000 USD] 35,000 USD Se vende o permuta !!!!!!
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-o-permuta-58207274
+
+  [2500 USD] 2,500 USD Se vende casita en bajos de 2 cuartos en Romerillo, Playa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casita-en-bajos-de-2-cuartos-en-romerillo-playa-55726528
+
+  [30000 USD] 30,000 USD 🏡Casa amplia de 3 habitaciones en el Chibás
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-amplia-de-3-habitaciones-en-el-chibas-57672019
+
+  [35000 USD] 35,000 USD 🏡 ¡FRENTE AL MAR EN EL NÁUTICO! Casa en Bajos (2 Hab) 🌊
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/frente-al-mar-en-el-nautico-casa-en-bajos-2-hab-listo-para-vivir-confort-y-autonomia-total-55991777
+
+  [120000 USD] 120,000 USD 🏡 ¡LA CASA DE TUS SUEÑOS! 😎 CASA INDEPENDIENTE CON JARDÍN,
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/la-casa-de-tus-suenos-casa-independiente-con-jardin-garaje-y-5-habitaciones-57842493
+
+  [34000 USD] 34,000 USD 🏡 CASA INDEPENDIENTE CON GARAJE – EL SEVILLANO, 10 DE OCTUB
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-con-garaje-el-sevillano-10-de-octubre-58361247
+
+  [140000 USD] 140,000 USD 🏡✨PROPIEDAD HORIZONTAL EN MIRAMAR | 140K USD(SIN AJUSTE) ✨
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/propiedad-horizontal-en-miramar-140k-usdsin-ajuste-57331468
+
+  [19500 USD] 19,500 USD 🏢 APARTAMENTO PUERTA DE CALLE, PLANTA BAJA – LA VÍBORA 🏢
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-puerta-de-calle-planta-baja-la-vibora-58361077
+
+  [1 CUP] 1 CUP VENDO CASA DE LUJO CON PISCINA GRANDE EN GUANABO CON TODO DE LUJ
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-casa-de-lujo-con-piscina-grande-en-guanabo-57213507
+
+  [80000 USD] 80,000 USD Propiedad de 3 habitaciones cada una con su baño, facilidad
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/propiedad-de-3-habitaciones-cada-una-con-su-bano-facilidad-de-pago-en-el-exterior-57841697
+
+  [160 USD] 160 USD Alquilo Casa con Piscina en Guanabo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilo-casa-con-piscina-en-guanabo-58066714
+
+  [250 USD] 250 USD Alquilo CASA DE LUJO de 7 habitaciones con piscina en Guanabo 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilo-casa-de-lujo-de-7-habitaciones-con-piscina-en-guanabo-55071982
+
+  [1 USD] 1 USD Alquilo Casa con piscina en Boca Ciega
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilo-casa-con-piscina-en-boca-ciega-56766405
+
+  [2500 USD] 2,500 USD Apartamento en Mantilla
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-mantilla-57214504
+
+  [35000 USD] 35,000 USD AMPLIO APARTAMENTO DE 3 CUARTOS CON TERRAZA Y 2 BAÑOS EN SA
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/amplio-apartamento-de-3-cuartos-con-terraza-y-2-banos-en-santos-suarez-58494142
+
+  [20000 USD] 20,000 USD 🏢 APARTAMENTO EN LAWTON, 10 DE OCTUBRE – CIRCUITO PRIORIZAD
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-lawton-10-de-octubre-circuito-priorizado-58361005
+
+  [25000 USD] 25,000 USD Excelente apartamento en vedado con balcón a la calle
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/excelente-apartamento-en-vedado-con-balcon-a-la-calle-58429159
+
+  [96000 USD] 96,000 USD En venta casa de renta de 4 habitaciones
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/en-venta-casa-de-renta-de-4-habitaciones-58429029
+
+  [8000 USD] 8,000 USD Casa 2do piso Poey Arroyo Naranjo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-poey-arroyo-naranjo-51436263
+
+  [13000 USD] 13,000 USD 🔥 ¡SE VENDE APARTAMENTO EN REGLA CON TODO DENTRO! 🔥
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-apartamento-en-regla-con-todo-dentro-57767379
+
+  [65000 USD] 65,000 USD Enorme casa de 7 habitaciones!!!!
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/enorme-casa-de-7-habitaciones-57698492
+
+  [35000 USD] 35,000 USD Apartamento Renovado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-renovado-57655468
+
+  [79000 USD] 79,000 USD Propiedad perfecta para 2 familias
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/propiedad-perfecta-para-2-familias-57738627
+
+  [12000 USD] 12,000 USD 🏠 SE VENDE CASA EN BAJOS – ATARÉS, CERRO
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-bajos-atares-cerro-57816704
+
+  [18000 USD] 18,000 USD APARTAMENTO ECONÓMICO EN EL CASCO HISTÓRICO DE LA HABANA
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-economico-en-el-casco-historico-de-la-habana-57653279
+
+  [45000 USD] 45,000 USD Casa Independiente con patio en altahabana
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-con-patio-en-altahabana-57987899
+
+  [31000 USD] 31,000 USD Biplanta en Nuevo Vedado con posibilidad de pago en el exte
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/biplanta-en-nuevo-vedado-con-posibilidad-de-pago-en-el-exterior-57885358
+
+  [78000 USD] 78,000 USD Hermoso apartamento en Miramar
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/hermoso-apartamento-en-miramar-58179117
+
+  [110000 USD] 110,000 USD Casa de 3 pisos en Santo Suárez
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-3-pisos-en-santo-suarez-58179200
+
+  [8000 USD] 8,000 USD Casa en Poey Arroyo Naranjo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-poey-arroyo-naranjo-53926547
+
+  [20000 USD] 20,000 USD Casa en Versalles, La Lisa.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-versalles-la-lisa-56996979
+
+  [15000 USD] 15,000 USD Casa en el rpto. California, San Miguel
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-el-rpto-california-san-miguel-56996936
+
+  [33000 USD] 33,000 USD Apartamento en el Vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-el-vedado-56996871
+
+  [20000 USD] 20,000 USD Casa en Versalles, La Lisa.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-versalles-la-lisa-56996978
+
+  [180000 USD] 180,000 USD Apartamento en el Vedado, en venta.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-el-vedado-en-venta-57953277
+
+  [200 USD] 200 USD Alquilo CASA DE LUJO CON PISCINA de 4 habitaciones en Guanabo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilo-casa-de-lujo-con-piscina-en-guanabo-54564867
+
+  [200 USD] 200 USD Alquilo Casa de Lujo con Piscina en Guanabo
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquilo-casa-de-lujo-con-piscina-en-guanabo-58314230
+
+  [15000 USD] 15,000 USD Apartamento en venta
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-venta-57642323
+
+  [36000 USD] 36,000 USD 🏡🔥 ¡OPORTUNIDAD EN SANTOS SUÁREZ! 🔥
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-en-santos-suarez-58310416
+
+  [None ] Apartamento en Alamar
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-alamar-58131958
+
+  [35000 USD] 35,000 USD APARTAMENTO DE 2 CUARTOS CON TERRAZA Y ELECTRODOMÉSTICOS EN
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-de-2-cuartos-con-terraza-y-electrodomesticos-en-plaza-de-la-revolucion-58494023
+
+  [700 USD] 700 USD Renta de apartamento en Nuevo vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamento-en-nuevo-vedado-58494019
+
+  [25 USD] 25 USD Apto Vedado de 1 habitación, zona sin afectacion de corriente!!
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apto-vedado-zona-que-no-se-va-la-luz-52750552
+
+  [5000 USD] 5,000 USD Venta de Casa Modesta con terreno
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-modesta-con-terreno-58493964
+
+  [45000 USD] 45,000 USD AMPLIA CASA INDEPENDIENTE EN VÍBORA PARK POR 45 000 !!!
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/amplia-casa-independiente-en-vibora-park-por-45-000-56738436
+
+  [35000 USD] 35,000 USD Apartamento en altos en Playa, cerca de 31, 41 y 44 !!!
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-altos-en-playa-cerca-de-31-41-y-44-54058870
+
+  [30000 USD] 30,000 USD TRES EN UNO EN CALLE MONTE! VIVE, ALQUILA O EMPRENDE EN LA 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/tres-en-uno-en-calle-monte-vive-alquila-o-emprende-en-la-habana-vieja-56447734
+
+  [30000 USD] 30,000 USD Oportunidad en Santo Suárez.  En venta amplio biplanta en b
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-en-santo-suarez-en-venta-amplio-biplanta-en-bajos-del-ano-1940-con-8451-m2-y-excelente-ubicacion-52642522
+
+  [35000 USD] 35,000 USD En venta biplanta en bajos con 4 cuartos y garaje en Casino
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/en-venta-biplanta-en-bajos-con-4-cuartos-y-garaje-en-casino-deportivo-57728706
+
+  [9000 USD] 9,000 USD OPORTUNIDAD ECONÓMICA EN LA LISA! APARTAMENTO DE 2 CUARTOS C
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-economica-en-la-lisa-apartamento-de-2-cuartos-cerca-del-hospital-frank-pais-57728612
+
+  [50000 USD] 50,000 USD JOYA CAPITALISTA EN BAJOS: IDEAL PARA NEGOCIO O VIVIENDA ( 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/joya-capitalista-en-bajos-ideal-para-negocio-o-vivienda-cercana-a-zapata-e-infanta-53110209
+
+  [75000 USD] 75,000 USD ESPECTACULAR CASA INDEPENDIENTE DE 2 PLANTAS EN LA AMPLIACI
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/espectacular-casa-independiente-de-2-plantas-en-la-ampliacion-del-sevillano-55222736
+
+  [20000 USD] 20,000 USD Apartamento en el Cerro, muy próximo a la avenida Infanta, 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-el-cerro-muy-proximo-a-la-avenida-infanta-a-la-esquina-de-tejas-y-al-mercado-de-4-caminos-54997430
+
+  [90000 USD] 90,000 USD Apartamento en el Vedado en zona céntrica, entre las calles
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-wn-el-vedado-en-zona-centrica-entre-las-calles-26-y-23-55039282
+
+  [400 USD] 400 USD Renta de apartamento en el vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamento-en-el-vedado-58493908
+
+  [None ] Rento local en la habana vieja
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/rento-local-en-la-habana-vieja-56301721
+
+  [None ] J Renta de habitaciones suite y standar en el Vedado. Alquiler por noc
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-renta-de-habitaciones-suite-y-standar-en-el-vedado-alquiler-por-noche-ved-021-58273066
+
+  [None ] J  Casa de renta con piscina en Nuevo Vedado para parejas🌴☀️NV-005
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-en-nuevo-vedado-para-parejasnv-005-58272955
+
+  [None ] J  Casa de renta con respaldo energetico y servicios gastronomicos en 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-respaldo-energetico-y-servicios-gastronomicos-en-centro-habana-corta-estancia-ch-002-58047760
+
+  [None ] J CASA DE RENTA — Exclusividad y confort en Siboney ✨🌴 SIB-001
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-exclusividad-y-confort-en-siboney-sib-001-58047713
+
+  [None ] J  ¡Disfruta un día inolvidable en nuestra piscina en Siboney, Playa! 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-disfruta-un-dia-inolvidable-en-nuestra-piscina-en-siboney-playa-pas-002-58047595
+
+  [20000 USD] 20,000 USD Se Vende apartamento en la habana vieja
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-apartamento-en-la-habana-vieja-58101552
+
+  [8000 USD] 8,000 USD Oportunidad Única en Guanabacoa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-unica-en-guanabacoa-58004972
+
+  [16000 USD] 16,000 USD Apto en San Agustín la lisa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apto-en-san-agustin-la-lisa-57369989
+
+  [20000 USD] 20,000 USD Casa en Arroyo Naranjo con garaje
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-arroyo-naranjo-con-garaje-57564809
+
+  [120000 USD] 120,000 USD 📍 𝗣𝗹𝗮𝘆𝗮 · 𝗔𝗺𝗽𝗹𝗶𝗮𝗰𝗶𝗼𝗻 𝗔𝗹𝗺𝗲𝗻𝗱𝗮𝗿𝗲𝘀 𝗖𝗮𝗹𝗹𝗲 𝟮𝟯 𝗲𝗻𝘁𝗿𝗲 𝟱𝟬 𝘆 𝟱𝟮.  📐
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/playa-ampliacion-almendares-calle-23-entre-50-y-52-29272-m2-58493841
+
+  [None ] J Casa de renta con soporte energético en Miramar. Alquiler corta esta
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-soporte-energetico-en-miramar-alquiler-corta-estancia-en-miramar-mir-008-58276212
+
+  [None ] J Casa de renta por tiempo indefinido en Miramar. MIR-007
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-por-tiempo-indefinido-en-miramar-mir-007-58276182
+
+  [None ] J Casa de renta con piscina de tubo en la playa Guanabo. Alquiler en l
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-de-tubo-en-la-playa-guanabo-alquiler-en-la-playa-gua-003-58298086
+
+  [None ] J Casa de renta con piscina jaccuzzi y respaldo energético en Guanabo.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-jaccuzzi-y-respaldo-energetico-en-guanabo-alquiler-de-casa-con-piscina-gua-002-58274064
+
+  [None ] J Pasadía y Pasanoche inolvidables en Boyeros (Capdevila). Alquiler de
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-pasadia-y-pasanoche-inolvidables-en-boyeros-capdevila-alquiler-de-piscina-y-habitaciones-pas-001-58273998
+
+  [None ] J Casa de renta de lujo en La Habana con servicio gastronómico (Mirama
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-de-lujo-en-la-habana-con-servicio-gastronomico-miramar-municipio-playaalquiler-de-hab-mir-003-58273941
+
+  [5000 USD] 5,000 USD Casa puerta calle de dos cuartos con negocio
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-puerta-calle-de-dos-cuartos-con-negocio-58493825
+
+  [None ] J Casa de renta con piscina en Miramar✨️🏢/Alquiler de casa con piscina
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-en-miramaralquiler-de-casa-con-piscina-en-miramarrent-a-house-with-a-pool-mir-002-58273914
+
+  [None ] J Alquiler de casa en Miramar con terraza bellas vistas 4 habitaciones
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-alquiler-de-casa-en-miramar-con-terraza-bellas-vistas-4-habitaciones-8-personas-renta-de-casa-miramar-mir-001-57779413
+
+  [None ] J ¡TU ESCAPADA PERFECTA EN SANTA FE! / SF-001
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-tu-escapada-perfecta-en-santa-fe-sf-001-57779590
+
+  [None ] J Casa de renta con piscina y respaldo energético en Guanabo. Alquiler
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-y-respaldo-energetico-en-guanabo-alquiler-en-la-playa-gua-021-58298268
+
+  [15000 USD] 15,000 USD Tejas para su negocio lindas  y resistentes
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/tejas-para-su-negocio-lindas-y-resistentes-58493802
+
+  [None ] J Apartamentos de renta de lujo con respaldo energia La Habana Vedado 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamentos-de-renta-de-lujo-con-respaldo-energia-la-habana-vedado-alquiler-de-apartamentos-de-lujo-ved-012-58274816
+
+  [25000 USD] 25,000 USD Se vende apto capitalista en Cerro ideal para negocios
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-apto-capitalista-en-cerro-ideal-para-negocios-56960251
+
+  [None ] JCasa de renta /PIMIENTA | BOCA CIEGA 🌊BC-002
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/jcasa-de-renta-pimienta-boca-ciega-bc-002-58274792
+
+  [None ] J Apartamento en alquiler en una excelente ubicación del Vedado! VED-0
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-en-alquiler-en-una-excelente-ubicacion-del-vedado-ved-014b-58274759
+
+  [None ] J APARTAMENTO EN ALQUILER EN MIRAMAR! 🌴MIR-006B
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-en-alquiler-en-miramar-mir-006b-58274683
+
+  [80000 USD] 80,000 USD Se vende apto capitalista en el Centro del Vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-apto-capitalista-en-el-centro-del-vedado-56960230
+
+  [None ] J Casa de renta con respaldo energetico y jaccuzzi en Boyeros (5 habit
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-respaldo-energetico-y-jaccuzzi-en-boyeros-5-habitacioneshostal-el-roble-en-mulgoba-boy-001-58274408
+
+  [None ] J CASA EN ALQUILER EN LA HABANA VIEJA – EXCELENTE UBICACIÓN HAV-003
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-en-alquiler-en-la-habana-vieja-excelente-ubicacion-hav-003-58274295
+
+  [None ] J Apartamento de renta con perfectas vistas VIVE EL VEDADO DESDE LAS A
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-con-perfectas-vistas-vive-el-vedado-desde-las-alturas-ved-006-58274261
+
+  [None ] J Casa de renta en el corazón del Vedado! ✨🏡 VED-005
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-en-el-corazon-del-vedado-ved-005-58274173
+
+  [None ] J Casa de renta con piscina y respaldo energético en Guanabo (5 hab) (
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-y-respaldo-energetico-en-guanabo-5-hab-12-personas-house-for-rent-gua-005-58274087
+
+  [None ] J Casa de renta en Río Cristal, Boyeros Un espacio ideal para disfruta
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-en-rio-cristal-boyeros-un-espacio-ideal-para-disfrutar-relajarte-boy-002-58274960
+
+  [None ] J Casa de renta con piscina SANTA FE CERCA DEL MAR SF-005
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-santa-fe-cerca-del-mar-sf-005-58275003
+
+  [None ] J Casa de renta con piscina y jaccuzzi con paneles solares en Santa Fe
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-y-jaccuzzi-con-paneles-solares-en-santa-fe-alquiler-de-casa-con-piscina-habana-sf-002-58275028
+
+  [None ] J  Casa de renta de lujo por tiempo indefinido con piscina y respaldo 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-de-lujo-por-tiempo-indefinido-con-piscina-y-respaldo-energetico-casa-villa-de-lujo-don-teto-oct-001-58275055
+
+  [20000 USD] 20,000 USD Casa en boyeros cerca del aeropuerto
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-boyeros-cerca-del-aeropuerto-57935718
+
+  [None ] J casa de renta Villa José — Exclusividad y confort en Siboney ✨🌴 SIB-
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-villa-jose-exclusividad-y-confort-en-siboney-sib-001-58275653
+
+  [None ] J  Apartamento de renta independiente en municipio Playa. Excelente ub
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-independiente-en-municipio-playa-excelente-ubicacion-pla-002-58275758
+
+  [15000 USD] 15,000 USD 🏠 Vendo Casa en El Casino Deportivo.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-casa-en-el-casino-deportivo-57053121
+
+  [None ] J  Apartamento amplio de renta lineal en Diez de Octubre 3 habitacione
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-amplio-de-renta-lineal-en-diez-de-octubre-3-habitaciones-5-personas-oct-002-58275856
+
+  [None ] J  Casa de renta con piscina en Guanabo cerca del mar GUA-011
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-en-guanabo-cerca-del-mar-gua-011-58276244
+
+  [None ] J Apartamento de renta a dos cuadras de la Plaza Vieja en el corazón d
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-a-dos-cuadras-de-la-plaza-vieja-en-el-corazon-de-la-habana-hav-001-58275990
+
+  [None ] Venta de casa y apartamento.
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-y-apartamento-58189135
+
+  [None ] J  Apartamento de renta lineal de 2 habitaciones en Vedado. Alquiler c
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-lineal-de-2-habitaciones-en-vedado-alquiler-corta-estancia-en-vedado-ved-016-58276058
+
+  [None ] J Casa de renta con piscina en Guababo cerca del mar. Alquiler de casa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-en-guababo-cerca-del-mar-alquiler-de-casa-con-piscina-en-guanabo-cerca-del-mar-gua-009-58276117
+
+  [None ] JCasa de renta en La Habana cerca de Ciudad Deportiva (Cerro). House f
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/jcasa-de-renta-en-la-habana-cerca-de-ciudad-deportiva-cerro-house-for-rent-2-habitaciones-2-banos-ce-001-58276163
+
+  [None ] J Casa de renta con piscina amplia en Guanabo. GUA-022
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-amplia-en-guanabo-gua-022-58298166
+
+  [None ] J Apartamento de renta por dias en Habana Vieja. Alquiler de apartamen
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-por-dias-en-habana-vieja-alquiler-de-apartamento-tiempo-indefinido-hav-006a-58276550
+
+  [None ] J Casa de renta para parejas o grupos en Reparto Sevillano municipio D
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-para-parejas-o-grupos-en-reparto-sevillano-municipio-diez-de-octubre-oct-003-58276593
+
+  [2500 CUP] 2,500 CUP Renta 😍 Habitación con jacuzzi🥰 vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-habitacion-con-jacuzzi-vedado-53790713
+
+  [50 USD] 50 USD 😍 Renta Habitaciones con jacuzzi 🔥 Municipio Playa 🥰
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-habitaciones-con-jacuzzi-playa-56057027
+
+  [50 USD] 50 USD 😍 Alquiler de Habitaciones con jacuzzi 🔥 Municipio Playa ✨
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquiler-de-habitaciones-con-jacuzzi-vedado-56057046
+
+  [None ] J Apartamento penthouse de renta de lujo en el Vedado. VED-004A
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-penthouse-de-renta-de-lujo-en-el-vedado-ved-004a-58276720
+
+  [None ] J Casa de renta de lujo con piscina en Vedado. Alquiler en Vedado VED-
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-de-lujo-con-piscina-en-vedado-alquiler-en-vedado-ved-004b-58276784
+
+  [None ] J  ¡Escápate a Guanabo y disfruta de Villa Díaz! 🏖️ GUA-007
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-escapate-a-guanabo-y-disfruta-de-villa-diaz-gua-007-57780283
+
+  [None ] J Casa de renta tiempo indefinido en la Habana Vieja. Renta por noches
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-tiempo-indefinido-en-la-habana-vieja-renta-por-noches-hav-006b-58047318
+
+  [None ] J Casa de renta con piscina 3 habitaciones  muy cerca del mar en la pl
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-3-habitaciones-muy-cerca-del-mar-en-la-playa-guanabo-guab-001-58298063
+
+  [None ] J Apartamento de renta de lujo bellas vistas en Vedado VED-004C
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-de-lujo-bellas-vistas-en-vedado-ved-004c-58276845
+
+  [400 USD] 400 USD Renta de apartamento de 2 habitaciones en El Vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-apartamento-en-el-vedado-52994762
+
+  [None ] J  Renta de casa SANTA FE DREAMS: TU ESCAPADA PERFECTA CERCA DEL MAR 🌊
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-renta-de-casa-santa-fe-dreams-tu-escapada-perfecta-cerca-del-mar-sf-005-58002493
+
+  [None ] J Tu escape privado con vista al mar en Guanabo ✨🌊GUA-003
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-tu-escape-privado-con-vista-al-mar-en-guanabo-gua-003-57780302
+
+  [None ] J Apartamento de renta para cortas estancias en Miramar. Alquiler tiem
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-para-cortas-estancias-en-miramar-alquiler-tiempo-indefinido-miramar-mir-009-58298107
+
+  [None ] J Casa de lujo de renta con piscina 4 habitaciones. PLA-006
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-lujo-de-renta-con-piscina-4-habitaciones-pla-006-58298299
+
+  [None ] J Casa de renta amplio para tiempo indefinido en La Habana (Vedado) VE
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-amplio-para-tiempo-indefinido-en-la-habana-vedado-ved-022-58298327
+
+  [None ] J Casa de renta con piscina y respaldo energético en la playa Guanabo 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-y-respaldo-energetico-en-la-playa-guanabo-gualb-002-58298374
+
+  [None ] J Casa de renta con piscina para parejas en Guanabo. Alquiler de casa 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-para-parejas-en-guanabo-alquiler-de-casa-con-piscina-en-la-playa-gua-012-58276380
+
+  [None ] J Casa de renta amplia con piscina cerca del mar en la paya Boca Ciega
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-amplia-con-piscina-cerca-del-mar-en-la-paya-boca-ciega-alquiler-de-casa-con-piscina-bc-003-58276446
+
+  [None ] J Casa de renta con piscina por noche y tiempo indefinido en Siboney. 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-por-noche-y-tiempo-indefinido-en-siboney-2-habitaciones-sib-004-58298667
+
+  [None ] J Casa de renta con piscina en Siboney. Alquiler tiempo indefinido y p
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-con-piscina-en-siboney-alquiler-tiempo-indefinido-y-por-noche-sib-003-58298638
+
+  [None ] J Renta de habitación por noche y tiempo indefinido con jacuzzi para p
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-renta-de-habitacion-por-noche-y-tiempo-indefinido-con-jacuzzi-para-parejas-en-la-habana-municipio-playa-pla-008-58298577
+
+  [None ] J Apartamento de renta frente al malecón habanero con bellas vistas el
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-apartamento-de-renta-frente-al-malecon-habanero-con-bellas-vistas-electricidad-permanente-3-habitaciones-ch-005-58298543
+
+  [None ] J Casa de renta por tiempo indefinido con respaldo energético en zona 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-por-tiempo-indefinido-con-respaldo-energetico-en-zona-centrica-de-habana-vieja-hav-009-58298489
+
+  [None ] J Casa de renta amplia por tiempo indefinido de 4 habitaciones en Casi
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/j-casa-de-renta-amplia-por-tiempo-indefinido-de-4-habitaciones-en-casino-deportivo-cerro-ce-002-58298445
+
+  [300 USD] 300 USD Garaje en renta para Almacén o negocio
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/garaje-en-renta-para-almacen-o-negocio-56656505
+
+  [140000 USD] 140,000 USD VENTA CASA REPARTO NAUTICO PLAYA
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-casa-reparto-nautico-playa-57805977
+
+  [6000 USD] 6,000 USD COMPRO EN PLAZA o PLAYA apto., casa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/compro-en-plaza-o-playa-apto-casa-57586395
+
+  [17000 USD] 17,000 USD 🏡✨ ¡OPORTUNIDAD:SE VENDE CASA ✨🏡
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidadse-vende-casa-58319228
+
+  [10000 USD] 10,000 USD Vendo apartamento
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-apartamento-58040776
+
+  [None ] Permuto (1 x 2).. apto bajos 2 hab.nvo vedado.x por 2 aptos..es interi
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/permuto-1-x-2-apto-bajos-2-habnvo-vedadox-por-2-aptoses-interior-de-solo-4aptosfotos-x-whasapp-57487002
+
+  [40000 USD] 40,000 USD Venta de casa en el vedado
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-en-el-vedado-58493229
+
+  [None ] PERMUTA APTO BAJOS 2HAB.NVOVEDADO.CON VUELTO ARRIBA PARA MI.57 M2.ES I
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/permuta-apto-bajos-2habnvovedadocon-vuelto-arriba-para-mi57-m2es-interiorzona-centrica-av-26-y-51fotos-x-whasap-57933568
+
+  [17000 USD] 17,000 USD Vendo apto.En Bajos.2 hab.nvo vedado.interior d solo 4 apto
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-apto-2-habnvo-vedadointerior-d-solo-4-aptos57m2fotos-x-whasapp-56627093
+
+  [40000 USD] 40,000 USD Venta de casa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-esta-casa-57694182
+
+  [18000 USD] 18,000 USD Venta de apartamentos en edificio capitalista
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-apartamentos-en-edificio-capitalista-58333162
+
+  [6000 USD] 6,000 USD Vendo apartamento
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-apartamento-57405734
+
+  [3500 USD] 3,500 USD Venta de Apartamento en Alturas de la Lisa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-apartento-en-alturas-de-la-lisa-56858592
+
+  [13000 USD] 13,000 USD Se vende casa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-57043414
+
+  [1 USD] 1 USD Se vende negocio de panaderia en funcionamiento
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-negocio-de-panaderia-en-funcionamiento-58328420
+
+  [56000 USD] 56,000 USD CASA EN SANTA FE PRECIO 56MIL USD
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-santa-fe-precio-56mil-usd-58492977
+
+  [None ] Se busca alquiler
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-busca-alquiler-56579365
+
+  [11 USD] 11 USD Se Comparte gastos de alquiler con mujer soltera
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-comparte-gastos-de-alquiler-con-mujer-soltera-56533906
+
+  [6500 USD] 6,500 USD Venta de acogedor apartamento en bajos de un biplanta, 1 hab
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-acogedor-apartamento-en-bajos-de-un-biplanta-1-habitacion-reparto-modelo-regla-57328942
+
+  [1 USD] 1 USD Se busca rentar local con internet o donde haiga coneccion
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-busca-rentar-local-con-internet-o-donde-haiga-coneccion-57152173
+
+  [1 USD] 1 USD Se busca alquiler, por tiempo indefinido
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-busca-alquiler-por-30-dias-57152143
+
+  [9000 USD] 9,000 USD Apto en bajo en Santos Suárez
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apto-en-bajo-en-santos-suarez-58492877
+
+  [26000 USD] 26,000 USD 🏠🔥 ¡SE VENDE CASA EN CENTRO HABANA! 🔥🏠
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-centro-habana-58452374
+
+  [100 USD] 100 USD 🏠 Casa De Renta Con Piscina En Siboney. 💡 Tiene respaldo energ
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-con-piscina-en-siboney-reserva-5363170269-56495912
+
+  [50 USD] 50 USD 🏠 Renta De Casa En Siboney. 💡 Tiene paneles solares. 📶Wifi y de
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-casa-en-siboney-tiene-una-piscina-espaciosa-wifi-y-desayuno-disponible-8-habitaciones-56498763
+
+  [30000 USD] 30,000 USD 🚨 CASA INDEPENDIENTE EN VENTA – COJÍMAR, HABANA DEL ESTE 📍 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-en-venta-cojimar-habana-del-este-ubicada-en-cojimar-en-una-zona-tranquila-y-de-facil-acceso-58278780
+
+  [None ] 🏊🏻‍♀️ Renta De Pasadías En Siboney, Playa. 📱 Reservas: +5355149761
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-pasadias-en-siboney-playa-reservas-5355149761-57286133
+
+  [15000 USD] 15,000 USD Casa 2do piso en Centro Habana
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-2do-piso-en-centro-habana-55860550
+
+  [400 USD] 400 USD 🏠 Casa De Renta En Siboney. 🌟Total Confort Asegurado. 📞 Reserv
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-para-extranjeros-en-siboney-total-confort-asegurado-reservas-5355149761-56859398
+
+  [8000 USD] 8,000 USD 🏡 *¡OPORTUNIDAD EN GUANABACOA! 2 CASAS EN 1* 💥
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-en-guanabacoa-2-casas-en-1-57855442
+
+  [25000 USD] 25,000 USD 🏠 *SE VENDE CASA EN ALTO CON ENTRADA  INDEPENDIENTE DESDE L
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-alto-con-entrada-independiente-desde-la-calle-centro-habana-57855385
+
+  [3000 USD] 3,000 USD Se vende casa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-58278229
+
+  [None ] Alquiler De Casa En Boca Ciega. Casa con piscina y capacidad para 6 pe
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquiler-de-casa-en-boca-ciega-casa-con-piscina-y-capacidad-para-6-personas-54272436
+
+  [50 USD] 50 USD 🏠 Apartamento de Renta de 2 habitaciones En La Habana Vieja.❄️ 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-de-renta-de-2-habitaciones-en-la-habana-vieja-tiene-energia-electrica-las-24-horas-54530573
+
+  [26000 USD] 26,000 USD 🏡 *¡OPORTUNIDAD EN EL CERRO!*
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-en-el-cerro-57851224
+
+  [50 USD] 50 USD 🏠 Hostal De Lujo Sevillano. Confort Total con Wifi incluído y E
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/hostal-de-lujo-sevillano-confort-total-con-wifi-incluido-y-energia-electrica-las-24-horascapacidad-para-14-personas-54404925
+
+  [70 USD] 70 USD 🏠 Apartamento De Renta Con Vista Al Mar, Vedado. 💡 Tiene respal
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-de-renta-con-vista-al-mar-vedado-tiene-respaldo-energetico-reserva-5355149761-58370649
+
+  [18000 USD] 18,000 USD 🏡 *CASA DE 3 PLANTAS EN ARROYO NARANJO MÁS GRAN TERRENO ADI
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-3-plantas-en-arroyo-naranjo-mas-gran-terreno-adicional-57851083
+
+  [7000 USD] 7,000 USD 🏡 *CASA INDEPENDIENTE EN MARIANAO 2 NIVELES*
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-independiente-en-marianao-2-niveles-57851114
+
+  [None ] 🏠 Casa de Renta en Habana Vieja, Cuba. Alquiler Para Estudiantes Extra
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-en-habana-vieja-cuba-alquiler-para-extranjeros-en-cuba-54196182
+
+  [2600 USD] 2,600 USD Casa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-58477961
+
+  [9500 USD] 9,500 USD 🏠✨ *VENTA EN BARRIO JESÚS MARÍA. HABANA VIEJA* ✨🏠
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-en-barrio-jesus-maria-habana-vieja-57855276
+
+  [42000 USD] 42,000 USD SE VENDE -Casa biplanta en el Casino
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-biplanta-en-el-casino-56610100
+
+  [25000 USD] 25,000 USD 🏢 *APARTAMENTO EN PRIMER PISO – CENTRO HABANA. PUEBLO NUEVO
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-primer-piso-centro-habana-pueblo-nuevo-57605255
+
+  [25000 USD] 25,000 USD 2 CASAS EN 1
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/2-casas-en-1-58478523
+
+  [26000 USD] 26,000 USD *APARTAMENTO EN EL VEDADO. PLAZA 1er Piso Alto* 🏠
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-el-vedado-plaza-1er-piso-alto-57605283
+
+  [None ] 🌴 ¡Bienvenido a tu escape perfecto en Santa Fe! 🌴  🏠 Casa de Renta Exc
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/bienvenido-a-tu-escape-perfecto-en-santa-fe-casa-de-renta-exclusiva-58492725
+
+  [45000 USD] 45,000 USD 🏡✨ *GRAN OPORTUNIDAD DE INVERSIÓN Y VIVIENDA 10 DE OCTUBRE*
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/gran-oportunidad-de-inversion-y-vivienda-10-de-octubre-57856310
+
+  [30000 USD] 30,000 USD 🏡 *¡CASA EN VENTA EN LA HABANA, PÁRRAGA (ARROYO NARANJO)!* 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-venta-en-la-habana-parraga-arroyo-naranjo-57855411
+
+  [180000 USD] 180,000 USD Cada en la víbora 10 octubre
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/cada-en-la-vibora-10-octubre-58149308
+
+  [13500 USD] 13,500 USD Casa en luyano planta baja placa ocupada
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-luyano-planta-baja-placa-ocupada-56798447
+
+  [75000 USD] 75,000 USD 🏠 *OPORTUNIDAD ÚNICA: HOGAR + NEGOCIO EN UN SOLO INMUEBLE |
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-unica-hogar-negocio-en-un-solo-inmueble-calzada-10-de-octubre-57855340
+
+  [7000 USD] 7,000 USD Apartamento en Santos Suárez
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-santos-suarez-58176757
+
+  [14500 USD] 14,500 USD APARTAMENTO EN LA IZQUINA DE TEJA
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-la-izquina-de-teja-58166797
+
+  [33000 USD] 33,000 USD MUNICIPIO PLAZA
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/municipio-plaza-57844914
+
+  [18000 USD] 18,000 USD San Agustín
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/san-agustin-57812335
+
+  [120000 USD] 120,000 USD Exclusividad
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/dentro-de-un-condominio-57812443
+
+  [23000 USD] 23,000 USD En oferta
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/boyeros-57829800
+
+  [8500 USD] 8,500 USD Marianao
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/lugar-centrico-57802704
+
+  [14500 USD] 14,500 USD Playa 19y72
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casita-57532980
+
+  [22000 USD] 22,000 USD Boyeros
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/boyeros-57948633
+
+  [None ] 🌊 Casa de Renta en Santa Fe – Con Vistas al Mar 🌴
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-en-santa-fe-con-vistas-al-mar-58492640
+
+  [300 USD] 300 USD Alquiler 300 usd no se va la luz, gas de la calle
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/alquiler-300-usd-no-se-va-la-luz-gas-de-la-calle-58418740
+
+  [1 USD] 1 USD Busco alquiler de local por 2 horas, pago bien, con internet de 
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/busco-alquiler-de-local-por-2-horas-pago-bien-con-internet-de-1mb-por-segundodinerooportunidad-58431147
+
+  [35000 USD] 35,000 USD Casa en luyano a 3 cuadras de hija de Galicia
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-en-luyano-a-3-cuadras-de-hija-de-galicia-58296720
+
+  [45000 USD] 45,000 USD Se Vende Local HABANA VIEJA LEER!!!
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-local-habana-vieja-leer-58285105
+
+  [15000 USD] 15,000 USD 🏡 Oportunidad Única en Consolación del Sur Se vende una exc
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/oportunidad-unica-en-consolacion-del-sur-se-vende-una-excelente-propiedad-con-placa-libre-ideal-para-quienes-buscan-50860667
+
+  [None ] 🌴🏖️ ¡TU ESCAPADA PERFECTA EN GUANABO! 🏖️🌴
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/tu-escapada-perfecta-en-guanabo-58492556
+
+  [600000 USD] 600,000 USD Propiedad independiente en el corazón de Miramar cercano a
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/propiedad-independiente-en-el-corazon-de-miramar-cercano-a-7ma-y-20-rodeada-de-embajadas-58492545
+
+  [9000 USD] 9,000 USD 🏠APARTAMENTO EN SANTOS SUÁREZ🏷️
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/apartamento-en-santos-suarez-57401786
+
+  [20000 USD] 20,000 USD Se vende casa en Centro Habana 1er piso
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-vende-casa-en-centro-habana-1er-piso-57247319
+
+  [None ] 🏡Casa de Renta en la playa de Boca Ciega
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/casa-de-renta-en-la-playa-de-boca-ciega-58492461
+
+  [4000 USD] 4,000 USD Vendo Apto en Centro Habana
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/vendo-apto-en-centro-habana-57889011
+
+  [11 USD] 11 USD Se busca alquiler
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-busca-alquiler-58086560
+
+  [11 USD] 11 USD Se alquila local, cuarto , casa o mas
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-alquila-local-cuarto-casa-o-mas-58346950
+
+  [3000 CUP] 3,000 CUP Renta de habitaciones en centro Habana
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/renta-de-habitaciones-en-centro-habana-58492409
+
+  [11 USD] 11 USD Busco local con internet
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/busco-local-con-internet-58254871
+
+  [19000 USD] 19,000 USD Venta de Apartamento interior de dos plantas en Vedado,
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-apartamento-interior-de-dos-plantas-en-vedado-58345031
+
+  [15000 USD] 15,000 USD Venta de casa
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/venta-de-casa-58492338
+
+  [200 USD] 200 USD SE ALQUILA LOCAL PARA NEGOCIO
+      Municipio: Diez de Octubre | Enlace: https://www.revolico.com/item/se-alquila-local-para-negocio-56381553
+
+--------------------------------------------------------------------------------
+ANUNCIOS ANTIGUOS (MÁS DE 90 DÍAS)
+--------------------------------------------------------------------------------
+================================================================================
+RECOMENDACIONES DE LIMPIEZA POR FECHA
+================================================================================
+
+1. Anuncios con más de 90 días: Pueden ya no estar activos.
+   Considerar excluirlos del análisis de precios actuales.
+
+2. Anuncios sin fecha: No se pudo determinar cuándo se publicaron.
+   Se recomienda visitar manualmente o excluirlos del análisis temporal.
+
+3. Anuncios recientes (últimos 7 días): Los más confiables para
+   reflejar el precio actual del mercado en 10 de Octubre.
+
+4. Para el proyecto de 3 días, priorizar anuncios de los últimos 30 días
+   para obtener una visión realista del mercado actual.
+
+================================================================================
